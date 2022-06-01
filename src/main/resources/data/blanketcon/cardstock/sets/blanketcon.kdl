@@ -1,0 +1,379 @@
+emblem "blanketcon:textures/gui/blanketcon.png"
+card "aurora_decor" {
+	rarity 1
+	info text="Located in Starfall Ruins" color="gray"
+	 lore {
+		- text="by LambdAurora" color="gray"
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "aurora_decor_rhf" {
+	rarity 2
+	info text="Located in Starfall Ruins" color="gray"
+	 lore {
+		- text="by LambdAurora" color="gray"
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "bing_bing_wahoo" {
+	rarity 1
+	info text="Located in Extant Deepwoods" color="green"
+	 lore {
+		- text="by Tropheus Jay, Soggy Cereal" color="gray"
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "bing_bing_wahoo_rhf" {
+	rarity 2
+	info text="Located in Extant Deepwoods" color="green"
+	 lore {
+		- text="by Tropheus Jay, Soggy Cereal" color="gray"
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "bits_and_chisels" {
+	rarity 1
+	info text="Located in Starfall Ruins" color="gray"
+	 lore {
+		- text="by ThatTrollzer" color="gray"
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "bits_and_chisels_rhf" {
+	rarity 2
+	info text="Located in Starfall Ruins" color="gray"
+	 lore {
+		- text="by ThatTrollzer" color="gray"
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "cardstock" {
+	rarity 1
+	info text="Located in Campgrounds" color="aqua"
+	 lore {
+		- text="by Repulica, LemmaEOF" color="gray"
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "cardstock_rhf" {
+	rarity 2
+	info text="Located in Campgrounds" color="aqua"
+	 lore {
+		- text="by Repulica, LemmaEOF" color="gray"
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "cc_restitched" {
+	rarity 1
+	info text="Located in Overlook Point" color="yellow"
+	 lore {
+		- text="by Merith, Patbox, SquidDev" color="gray"
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "cc_restitched_rhf" {
+	rarity 2
+	info text="Located in Overlook Point" color="yellow"
+	 lore {
+		- text="by Merith, Patbox, SquidDev" color="gray"
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "chocolate_bar" {
+	rarity 1
+	info text="Located in CL Industries" color="dark_aqua"
+	 lore {
+		- text="by woodiertexas" color="gray"
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "chocolate_bar_rhf" {
+	rarity 2
+	info text="Located in CL Industries" color="dark_aqua"
+	 lore {
+		- text="by woodiertexas" color="gray"
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "consistency_plus" {
+	rarity 1
+	info text="Located in Extant Deepwoods" color="green"
+	 lore {
+		- text="by Cart3r, Tropheus Jay, Siuol" color="gray"
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "consistency_plus_rhf" {
+	rarity 2
+	info text="Located in Extant Deepwoods" color="green"
+	 lore {
+		- text="by Cart3r, Tropheus Jay, Siuol" color="gray"
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "destroy_the_monument" {
+	rarity 1
+	info text="Located in Midway Park" color="gold"
+	 lore {
+		- text="by NucleoidMC" color="gray"
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "destroy_the_monument_rhf" {
+	rarity 2
+	info text="Located in Midway Park" color="gold"
+	 lore {
+		- text="by NucleoidMC" color="gray"
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "fabulously_optimized" {
+	rarity 1
+	info text="Located in Starfall Ruins" color="gray"
+	 lore {
+		- text="by robotkoer" color="gray"
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "fabulously_optimized_rhf" {
+	rarity 2
+	info text="Located in Starfall Ruins" color="gray"
+	 lore {
+		- text="by robotkoer" color="gray"
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "haema" {
+	rarity 1
+	info text="Located in Campgrounds" color="aqua"
+	 lore {
+		- text="by Will BL" color="gray"
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "haema_rhf" {
+	rarity 2
+	info text="Located in Campgrounds" color="aqua"
+	 lore {
+		- text="by Will BL" color="gray"
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "jamtastic" {
+	rarity 1
+	info text="Located in Jacaranda Area" color="dark_purple"
+	 lore {
+		- text="by jamalam" color="gray"
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "jamtastic_rhf" {
+	rarity 2
+	info text="Located in Jacaranda Area" color="dark_purple"
+	 lore {
+		- text="by jamalam" color="gray"
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "lovely_snails" {
+	rarity 1
+	info text="Located in Starfall Ruins" color="gray"
+	 lore {
+		- text="by LambdAurora" color="gray"
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "lovely_snails_rhf" {
+	rarity 2
+	info text="Located in Starfall Ruins" color="gray"
+	 lore {
+		- text="by LambdAurora" color="gray"
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "mbembe" {
+	rarity 1
+	info text="Located in Jacaranda Area" color="dark_purple"
+	 lore {
+		- text="by ArathainFarqoe, Mango, Coolrex, Ninni, Zae" color="gray"
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "mbembe_rhf" {
+	rarity 2
+	info text="Located in Jacaranda Area" color="dark_purple"
+	 lore {
+		- text="by ArathainFarqoe, Mango, Coolrex, Ninni, Zae" color="gray"
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "milk_plus" {
+	rarity 1
+	info text="Located in Jacaranda Area" color="dark_purple"
+	 lore {
+		- text="by Tropheus Jay" color="gray"
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "milk_plus_rhf" {
+	rarity 2
+	info text="Located in Jacaranda Area" color="dark_purple"
+	 lore {
+		- text="by Tropheus Jay" color="gray"
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "now_playing" {
+	rarity 1
+	info text="Located in Extant Deepwoods" color="green"
+	 lore {
+		- text="by AppleTheGolden" color="gray"
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "now_playing_rhf" {
+	rarity 2
+	info text="Located in Extant Deepwoods" color="green"
+	 lore {
+		- text="by AppleTheGolden" color="gray"
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "phonos" {
+	rarity 1
+	info text="Located in Overlook Point" color="yellow"
+	 lore {
+		- text="by FoundationGames" color="gray"
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "phonos_rhf" {
+	rarity 2
+	info text="Located in Overlook Point" color="yellow"
+	 lore {
+		- text="by FoundationGames" color="gray"
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "polymc" {
+	rarity 1
+	info text="Located in Midway Park" color="gold"
+	 lore {
+		- text="by TheEpicBlock" color="gray"
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "polymc_rhf" {
+	rarity 2
+	info text="Located in Midway Park" color="gold"
+	 lore {
+		- text="by TheEpicBlock" color="gray"
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "portal_cubed" {
+	rarity 1
+	info text="Located in Campgrounds" color="aqua"
+	 lore {
+		- text="by Portal Cubed team" color="gray"
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "portal_cubed_rhf" {
+	rarity 2
+	info text="Located in Campgrounds" color="aqua"
+	 lore {
+		- text="by Portal Cubed team" color="gray"
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "quakecraft" {
+	rarity 1
+	info text="Located in Midway Park" color="gold"
+	 lore {
+		- text="by NucleoidMC" color="gray"
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "quakecraft_rhf" {
+	rarity 2
+	info text="Located in Midway Park" color="gold"
+	 lore {
+		- text="by NucleoidMC" color="gray"
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "reaping" {
+	rarity 1
+	info text="Located in Overlook Point" color="yellow"
+	 lore {
+		- text="by Jamalam" color="gray"
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "reaping_rhf" {
+	rarity 2
+	info text="Located in Overlook Point" color="yellow"
+	 lore {
+		- text="by Jamalam" color="gray"
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "sandwichable" {
+	rarity 1
+	info text="Located in Extant Deepwoods" color="green"
+	 lore {
+		- text="by FoundationGames" color="gray"
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "sandwichable_rhf" {
+	rarity 2
+	info text="Located in Extant Deepwoods" color="green"
+	 lore {
+		- text="by FoundationGames" color="gray"
+	}
+	artist "Arathain"
+	date "2022"
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "cardstock:builtin/card",
+    "textures": {
+        "art": "blanketcon:item/card/art/lovely_snails",
+        "frame": "blanketcon:item/card/frame/creature"
+    }
+}

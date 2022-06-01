@@ -1,0 +1,7 @@
+{
+    "parent": "cardstock:builtin/card",
+    "textures": {
+        "art": "blanketcon:item/card/art/bing_bing_wahoo",
+        "frame": "blanketcon:item/card/frame/mech"
+    }
+}

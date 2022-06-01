@@ -1,0 +1,7 @@
+{
+    "parent": "cardstock:builtin/card",
+    "textures": {
+        "art": "blanketcon:item/card/art/aurora_decor",
+        "frame": "blanketcon:item/card/frame/decoration"
+    }
+}
