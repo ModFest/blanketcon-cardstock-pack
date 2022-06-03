@@ -2,12 +2,14 @@ emblem "blanketcon:textures/gui/blanketcon.png"
 card "allium" {
 	rarity 1
 	info {
-		- text="Located in " color="gray"
-		- text="Extant Deepwoods" color="green"
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.deepwoods" color="green"
 	}
 	 lore {
 		- {
-			- text="by " color="gray" 
+			- translate="text.blanketcon.by" color="gray" 
+			- text=" " color="gray"
 			- text="hugeblank, Patbox, BasiqueEvangelist" color="green"
 		}
 	}
@@ -17,12 +19,14 @@ card "allium" {
 card "allium_rhf" {
 	rarity 2
 	info {
-		- text="Located in " color="gray"
-		- text="Extant Deepwoods" color="green"
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.deepwoods" color="green"
 	}
 	 lore {
 		- {
-			- text="by " color="gray" 
+			- translate="text.blanketcon.by" color="gray" 
+			- text=" " color="gray"
 			- text="hugeblank, Patbox, BasiqueEvangelist" color="green"
 		}
 	}
@@ -32,12 +36,14 @@ card "allium_rhf" {
 card "aurora_decor" {
 	rarity 1
 	info {
-		- text="Located in " color="gray"
-		- text="Starfall Ruins" color="dark_gray"
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.starfall" color="dark_gray"
 	}
 	 lore {
 		- {
-			- text="by " color="gray" 
+			- translate="text.blanketcon.by" color="gray" 
+			- text=" " color="gray"
 			- text="LambdAurora" color="green"
 		}
 	}
@@ -47,12 +53,14 @@ card "aurora_decor" {
 card "aurora_decor_rhf" {
 	rarity 2
 	info {
-		- text="Located in " color="gray"
-		- text="Starfall Ruins" color="dark_gray"
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.starfall" color="dark_gray"
 	}
 	 lore {
 		- {
-			- text="by " color="gray" 
+			- translate="text.blanketcon.by" color="gray" 
+			- text=" " color="gray"
 			- text="LambdAurora" color="green"
 		}
 	}
@@ -62,12 +70,14 @@ card "aurora_decor_rhf" {
 card "bing_bing_wahoo" {
 	rarity 1
 	info {
-		- text="Located in " color="gray"
-		- text="Extant Deepwoods" color="green"
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.deepwoods" color="green"
 	}
 	 lore {
 		- {
-			- text="by " color="gray" 
+			- translate="text.blanketcon.by" color="gray" 
+			- text=" " color="gray"
 			- text="Tropheus Jay, Soggy Cereal" color="green"
 		}
 	}
@@ -77,12 +87,14 @@ card "bing_bing_wahoo" {
 card "bing_bing_wahoo_rhf" {
 	rarity 2
 	info {
-		- text="Located in " color="gray"
-		- text="Extant Deepwoods" color="green"
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.deepwoods" color="green"
 	}
 	 lore {
 		- {
-			- text="by " color="gray" 
+			- translate="text.blanketcon.by" color="gray" 
+			- text=" " color="gray"
 			- text="Tropheus Jay, Soggy Cereal" color="green"
 		}
 	}
@@ -92,12 +104,14 @@ card "bing_bing_wahoo_rhf" {
 card "bits_and_chisels" {
 	rarity 1
 	info {
-		- text="Located in " color="gray"
-		- text="Starfall Ruins" color="dark_gray"
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.starfall" color="dark_gray"
 	}
 	 lore {
 		- {
-			- text="by " color="gray" 
+			- translate="text.blanketcon.by" color="gray" 
+			- text=" " color="gray"
 			- text="ThatTrollzer" color="green"
 		}
 	}
@@ -107,12 +121,14 @@ card "bits_and_chisels" {
 card "bits_and_chisels_rhf" {
 	rarity 2
 	info {
-		- text="Located in " color="gray"
-		- text="Starfall Ruins" color="dark_gray"
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.starfall" color="dark_gray"
 	}
 	 lore {
 		- {
-			- text="by " color="gray" 
+			- translate="text.blanketcon.by" color="gray" 
+			- text=" " color="gray"
 			- text="ThatTrollzer" color="green"
 		}
 	}
@@ -122,12 +138,14 @@ card "bits_and_chisels_rhf" {
 card "cardstock" {
 	rarity 1
 	info {
-		- text="Located in " color="gray"
-		- text="The Campgrounds" color="aqua"
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.campgrounds" color="aqua"
 	}
 	 lore {
 		- {
-			- text="by " color="gray" 
+			- translate="text.blanketcon.by" color="gray" 
+			- text=" " color="gray"
 			- text="Repulica, LemmaEOF" color="green"
 		}
 	}
@@ -137,12 +155,14 @@ card "cardstock" {
 card "cardstock_rhf" {
 	rarity 2
 	info {
-		- text="Located in " color="gray"
-		- text="The Campgrounds" color="aqua"
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.campgrounds" color="aqua"
 	}
 	 lore {
 		- {
-			- text="by " color="gray" 
+			- translate="text.blanketcon.by" color="gray" 
+			- text=" " color="gray"
 			- text="Repulica, LemmaEOF" color="green"
 		}
 	}
@@ -152,12 +172,14 @@ card "cardstock_rhf" {
 card "cc_restitched" {
 	rarity 1
 	info {
-		- text="Located in " color="gray"
-		- text="Overlook Point" color="yellow"
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.overlook" color="yellow"
 	}
 	 lore {
 		- {
-			- text="by " color="gray" 
+			- translate="text.blanketcon.by" color="gray" 
+			- text=" " color="gray"
 			- text="Merith, Patbox, SquidDev" color="green"
 		}
 	}
@@ -167,12 +189,14 @@ card "cc_restitched" {
 card "cc_restitched_rhf" {
 	rarity 2
 	info {
-		- text="Located in " color="gray"
-		- text="Overlook Point" color="yellow"
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.overlook" color="yellow"
 	}
 	 lore {
 		- {
-			- text="by " color="gray" 
+			- translate="text.blanketcon.by" color="gray" 
+			- text=" " color="gray"
 			- text="Merith, Patbox, SquidDev" color="green"
 		}
 	}
@@ -182,12 +206,14 @@ card "cc_restitched_rhf" {
 card "chocolate_bar" {
 	rarity 1
 	info {
-		- text="Located in " color="gray"
-		- text="CL Industries" color="dark_aqua"
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.industries" color="dark_aqua"
 	}
 	 lore {
 		- {
-			- text="by " color="gray" 
+			- translate="text.blanketcon.by" color="gray" 
+			- text=" " color="gray"
 			- text="woodiertexas" color="green"
 		}
 	}
@@ -197,12 +223,14 @@ card "chocolate_bar" {
 card "chocolate_bar_rhf" {
 	rarity 2
 	info {
-		- text="Located in " color="gray"
-		- text="CL Industries" color="dark_aqua"
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.industries" color="dark_aqua"
 	}
 	 lore {
 		- {
-			- text="by " color="gray" 
+			- translate="text.blanketcon.by" color="gray" 
+			- text=" " color="gray"
 			- text="woodiertexas" color="green"
 		}
 	}
@@ -212,12 +240,14 @@ card "chocolate_bar_rhf" {
 card "consistency_plus" {
 	rarity 1
 	info {
-		- text="Located in " color="gray"
-		- text="Extant Deepwoods" color="green"
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.deepwoods" color="green"
 	}
 	 lore {
 		- {
-			- text="by " color="gray" 
+			- translate="text.blanketcon.by" color="gray" 
+			- text=" " color="gray"
 			- text="Cart3r, Tropheus Jay, Siuol" color="green"
 		}
 	}
@@ -227,12 +257,14 @@ card "consistency_plus" {
 card "consistency_plus_rhf" {
 	rarity 2
 	info {
-		- text="Located in " color="gray"
-		- text="Extant Deepwoods" color="green"
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.deepwoods" color="green"
 	}
 	 lore {
 		- {
-			- text="by " color="gray" 
+			- translate="text.blanketcon.by" color="gray" 
+			- text=" " color="gray"
 			- text="Cart3r, Tropheus Jay, Siuol" color="green"
 		}
 	}
@@ -242,12 +274,14 @@ card "consistency_plus_rhf" {
 card "destroy_the_monument" {
 	rarity 1
 	info {
-		- text="Located in " color="gray"
-		- text="Midway Park" color="gold"
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.midway" color="gold"
 	}
 	 lore {
 		- {
-			- text="by " color="gray" 
+			- translate="text.blanketcon.by" color="gray" 
+			- text=" " color="gray"
 			- text="NucleoidMC" color="green"
 		}
 	}
@@ -257,12 +291,14 @@ card "destroy_the_monument" {
 card "destroy_the_monument_rhf" {
 	rarity 2
 	info {
-		- text="Located in " color="gray"
-		- text="Midway Park" color="gold"
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.midway" color="gold"
 	}
 	 lore {
 		- {
-			- text="by " color="gray" 
+			- translate="text.blanketcon.by" color="gray" 
+			- text=" " color="gray"
 			- text="NucleoidMC" color="green"
 		}
 	}
@@ -272,12 +308,14 @@ card "destroy_the_monument_rhf" {
 card "fabulously_optimized" {
 	rarity 1
 	info {
-		- text="Located in " color="gray"
-		- text="Starfall Ruins" color="dark_gray"
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.starfall" color="dark_gray"
 	}
 	 lore {
 		- {
-			- text="by " color="gray" 
+			- translate="text.blanketcon.by" color="gray" 
+			- text=" " color="gray"
 			- text="robotkoer" color="green"
 		}
 	}
@@ -287,12 +325,14 @@ card "fabulously_optimized" {
 card "fabulously_optimized_rhf" {
 	rarity 2
 	info {
-		- text="Located in " color="gray"
-		- text="Starfall Ruins" color="dark_gray"
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.starfall" color="dark_gray"
 	}
 	 lore {
 		- {
-			- text="by " color="gray" 
+			- translate="text.blanketcon.by" color="gray" 
+			- text=" " color="gray"
 			- text="robotkoer" color="green"
 		}
 	}
@@ -302,12 +342,14 @@ card "fabulously_optimized_rhf" {
 card "haema" {
 	rarity 1
 	info {
-		- text="Located in " color="gray"
-		- text="The Campgrounds" color="aqua"
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.campgrounds" color="aqua"
 	}
 	 lore {
 		- {
-			- text="by " color="gray" 
+			- translate="text.blanketcon.by" color="gray" 
+			- text=" " color="gray"
 			- text="Will BL" color="green"
 		}
 	}
@@ -317,12 +359,14 @@ card "haema" {
 card "haema_rhf" {
 	rarity 2
 	info {
-		- text="Located in " color="gray"
-		- text="The Campgrounds" color="aqua"
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.campgrounds" color="aqua"
 	}
 	 lore {
 		- {
-			- text="by " color="gray" 
+			- translate="text.blanketcon.by" color="gray" 
+			- text=" " color="gray"
 			- text="Will BL" color="green"
 		}
 	}
@@ -332,12 +376,14 @@ card "haema_rhf" {
 card "jamtastic" {
 	rarity 1
 	info {
-		- text="Located in " color="gray"
-		- text="Jacaranda Area" color="dark_purple"
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.springtide" color="dark_purple"
 	}
 	 lore {
 		- {
-			- text="by " color="gray" 
+			- translate="text.blanketcon.by" color="gray" 
+			- text=" " color="gray"
 			- text="jamalam" color="green"
 		}
 	}
@@ -347,12 +393,14 @@ card "jamtastic" {
 card "jamtastic_rhf" {
 	rarity 2
 	info {
-		- text="Located in " color="gray"
-		- text="Jacaranda Area" color="dark_purple"
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.springtide" color="dark_purple"
 	}
 	 lore {
 		- {
-			- text="by " color="gray" 
+			- translate="text.blanketcon.by" color="gray" 
+			- text=" " color="gray"
 			- text="jamalam" color="green"
 		}
 	}
@@ -362,12 +410,14 @@ card "jamtastic_rhf" {
 card "lovely_snails" {
 	rarity 1
 	info {
-		- text="Located in " color="gray"
-		- text="Starfall Ruins" color="dark_gray"
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.starfall" color="dark_gray"
 	}
 	 lore {
 		- {
-			- text="by " color="gray" 
+			- translate="text.blanketcon.by" color="gray" 
+			- text=" " color="gray"
 			- text="LambdAurora" color="green"
 		}
 	}
@@ -377,12 +427,14 @@ card "lovely_snails" {
 card "lovely_snails_rhf" {
 	rarity 2
 	info {
-		- text="Located in " color="gray"
-		- text="Starfall Ruins" color="dark_gray"
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.starfall" color="dark_gray"
 	}
 	 lore {
 		- {
-			- text="by " color="gray" 
+			- translate="text.blanketcon.by" color="gray" 
+			- text=" " color="gray"
 			- text="LambdAurora" color="green"
 		}
 	}
@@ -392,12 +444,14 @@ card "lovely_snails_rhf" {
 card "mbembe" {
 	rarity 1
 	info {
-		- text="Located in " color="gray"
-		- text="Jacaranda Area" color="dark_purple"
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.springtide" color="dark_purple"
 	}
 	 lore {
 		- {
-			- text="by " color="gray" 
+			- translate="text.blanketcon.by" color="gray" 
+			- text=" " color="gray"
 			- text="ArathainFarqoe, Mango, Coolrex, Ninni, Zae" color="green"
 		}
 	}
@@ -407,12 +461,14 @@ card "mbembe" {
 card "mbembe_rhf" {
 	rarity 2
 	info {
-		- text="Located in " color="gray"
-		- text="Jacaranda Area" color="dark_purple"
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.springtide" color="dark_purple"
 	}
 	 lore {
 		- {
-			- text="by " color="gray" 
+			- translate="text.blanketcon.by" color="gray" 
+			- text=" " color="gray"
 			- text="ArathainFarqoe, Mango, Coolrex, Ninni, Zae" color="green"
 		}
 	}
@@ -422,12 +478,14 @@ card "mbembe_rhf" {
 card "milk_plus" {
 	rarity 1
 	info {
-		- text="Located in " color="gray"
-		- text="Jacaranda Area" color="dark_purple"
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.springtide" color="dark_purple"
 	}
 	 lore {
 		- {
-			- text="by " color="gray" 
+			- translate="text.blanketcon.by" color="gray" 
+			- text=" " color="gray"
 			- text="Tropheus Jay" color="green"
 		}
 	}
@@ -437,12 +495,14 @@ card "milk_plus" {
 card "milk_plus_rhf" {
 	rarity 2
 	info {
-		- text="Located in " color="gray"
-		- text="Jacaranda Area" color="dark_purple"
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.springtide" color="dark_purple"
 	}
 	 lore {
 		- {
-			- text="by " color="gray" 
+			- translate="text.blanketcon.by" color="gray" 
+			- text=" " color="gray"
 			- text="Tropheus Jay" color="green"
 		}
 	}
@@ -452,12 +512,14 @@ card "milk_plus_rhf" {
 card "now_playing" {
 	rarity 1
 	info {
-		- text="Located in " color="gray"
-		- text="Extant Deepwoods" color="green"
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.deepwoods" color="green"
 	}
 	 lore {
 		- {
-			- text="by " color="gray" 
+			- translate="text.blanketcon.by" color="gray" 
+			- text=" " color="gray"
 			- text="AppleTheGolden" color="green"
 		}
 	}
@@ -467,12 +529,14 @@ card "now_playing" {
 card "now_playing_rhf" {
 	rarity 2
 	info {
-		- text="Located in " color="gray"
-		- text="Extant Deepwoods" color="green"
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.deepwoods" color="green"
 	}
 	 lore {
 		- {
-			- text="by " color="gray" 
+			- translate="text.blanketcon.by" color="gray" 
+			- text=" " color="gray"
 			- text="AppleTheGolden" color="green"
 		}
 	}
@@ -482,12 +546,14 @@ card "now_playing_rhf" {
 card "phonos" {
 	rarity 1
 	info {
-		- text="Located in " color="gray"
-		- text="Overlook Point" color="yellow"
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.overlook" color="yellow"
 	}
 	 lore {
 		- {
-			- text="by " color="gray" 
+			- translate="text.blanketcon.by" color="gray" 
+			- text=" " color="gray"
 			- text="FoundationGames" color="green"
 		}
 	}
@@ -497,12 +563,14 @@ card "phonos" {
 card "phonos_rhf" {
 	rarity 2
 	info {
-		- text="Located in " color="gray"
-		- text="Overlook Point" color="yellow"
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.overlook" color="yellow"
 	}
 	 lore {
 		- {
-			- text="by " color="gray" 
+			- translate="text.blanketcon.by" color="gray" 
+			- text=" " color="gray"
 			- text="FoundationGames" color="green"
 		}
 	}
@@ -512,12 +580,14 @@ card "phonos_rhf" {
 card "polymc" {
 	rarity 1
 	info {
-		- text="Located in " color="gray"
-		- text="Midway Park" color="gold"
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.midway" color="gold"
 	}
 	 lore {
 		- {
-			- text="by " color="gray" 
+			- translate="text.blanketcon.by" color="gray" 
+			- text=" " color="gray"
 			- text="TheEpicBlock" color="green"
 		}
 	}
@@ -527,12 +597,14 @@ card "polymc" {
 card "polymc_rhf" {
 	rarity 2
 	info {
-		- text="Located in " color="gray"
-		- text="Midway Park" color="gold"
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.midway" color="gold"
 	}
 	 lore {
 		- {
-			- text="by " color="gray" 
+			- translate="text.blanketcon.by" color="gray" 
+			- text=" " color="gray"
 			- text="TheEpicBlock" color="green"
 		}
 	}
@@ -542,12 +614,14 @@ card "polymc_rhf" {
 card "portal_cubed" {
 	rarity 1
 	info {
-		- text="Located in " color="gray"
-		- text="The Campgrounds" color="aqua"
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.campgrounds" color="aqua"
 	}
 	 lore {
 		- {
-			- text="by " color="gray" 
+			- translate="text.blanketcon.by" color="gray" 
+			- text=" " color="gray"
 			- text="Portal Cubed team" color="green"
 		}
 	}
@@ -557,12 +631,14 @@ card "portal_cubed" {
 card "portal_cubed_rhf" {
 	rarity 2
 	info {
-		- text="Located in " color="gray"
-		- text="The Campgrounds" color="aqua"
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.campgrounds" color="aqua"
 	}
 	 lore {
 		- {
-			- text="by " color="gray" 
+			- translate="text.blanketcon.by" color="gray" 
+			- text=" " color="gray"
 			- text="Portal Cubed team" color="green"
 		}
 	}
@@ -572,12 +648,14 @@ card "portal_cubed_rhf" {
 card "quakecraft" {
 	rarity 1
 	info {
-		- text="Located in " color="gray"
-		- text="Midway Park" color="gold"
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.midway" color="gold"
 	}
 	 lore {
 		- {
-			- text="by " color="gray" 
+			- translate="text.blanketcon.by" color="gray" 
+			- text=" " color="gray"
 			- text="NucleoidMC" color="green"
 		}
 	}
@@ -587,12 +665,14 @@ card "quakecraft" {
 card "quakecraft_rhf" {
 	rarity 2
 	info {
-		- text="Located in " color="gray"
-		- text="Midway Park" color="gold"
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.midway" color="gold"
 	}
 	 lore {
 		- {
-			- text="by " color="gray" 
+			- translate="text.blanketcon.by" color="gray" 
+			- text=" " color="gray"
 			- text="NucleoidMC" color="green"
 		}
 	}
@@ -602,12 +682,14 @@ card "quakecraft_rhf" {
 card "reaping" {
 	rarity 1
 	info {
-		- text="Located in " color="gray"
-		- text="Overlook Point" color="yellow"
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.overlook" color="yellow"
 	}
 	 lore {
 		- {
-			- text="by " color="gray" 
+			- translate="text.blanketcon.by" color="gray" 
+			- text=" " color="gray"
 			- text="Jamalam" color="green"
 		}
 	}
@@ -617,12 +699,14 @@ card "reaping" {
 card "reaping_rhf" {
 	rarity 2
 	info {
-		- text="Located in " color="gray"
-		- text="Overlook Point" color="yellow"
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.overlook" color="yellow"
 	}
 	 lore {
 		- {
-			- text="by " color="gray" 
+			- translate="text.blanketcon.by" color="gray" 
+			- text=" " color="gray"
 			- text="Jamalam" color="green"
 		}
 	}
@@ -632,12 +716,14 @@ card "reaping_rhf" {
 card "sandwichable" {
 	rarity 1
 	info {
-		- text="Located in " color="gray"
-		- text="Extant Deepwoods" color="green"
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.deepwoods" color="green"
 	}
 	 lore {
 		- {
-			- text="by " color="gray" 
+			- translate="text.blanketcon.by" color="gray" 
+			- text=" " color="gray"
 			- text="FoundationGames" color="green"
 		}
 	}
@@ -647,12 +733,14 @@ card "sandwichable" {
 card "sandwichable_rhf" {
 	rarity 2
 	info {
-		- text="Located in " color="gray"
-		- text="Extant Deepwoods" color="green"
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.deepwoods" color="green"
 	}
 	 lore {
 		- {
-			- text="by " color="gray" 
+			- translate="text.blanketcon.by" color="gray" 
+			- text=" " color="gray"
 			- text="FoundationGames" color="green"
 		}
 	}

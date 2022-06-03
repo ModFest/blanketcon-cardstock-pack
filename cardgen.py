@@ -1,50 +1,62 @@
 import json
 
 zone_colors = {
-    "The Campgrounds": "aqua",
-    "Starfall Ruins": "dark_gray",
-    "Lakeside Resort": "light_purple",
-    "Overlook Point": "yellow",
-    "Jacaranda Area": "dark_purple",
-    "CL Industries": "dark_aqua",
-    "Extant Deepwoods": "green",
-    "Midway Park": "gold",
-    "TODO: LOCATE ME": "red"
+    "campgrounds": "aqua",
+    "starfall": "dark_gray",
+    "lakeside": "light_purple",
+    "overlook": "yellow",
+    "springtide": "dark_purple",
+    "industries": "dark_aqua",
+    "deepwoods": "green",
+    "midway": "gold",
+    "todo": "red"
 }
 
 booth_cards = {
-    "allium": ("Allium", "hugeblank, Patbox, BasiqueEvangelist", "Extant Deepwoods", "tech", "Arathain"),
-    "aurora_decor": ("Aurora's Decorations", "LambdAurora", "Starfall Ruins", "decoration", "Arathain"),
+    "allium": ("Allium", "hugeblank, Patbox, BasiqueEvangelist", "deepwoods", "tech", "Arathain"),
+    "aurora_decor": ("Aurora's Decorations", "LambdAurora", "starfall", "decoration", "Arathain"),
     # "bewitchment_plus": (),
-    "bing_bing_wahoo": ("Bing Bing Wahoo", "Tropheus Jay, Soggy Cereal", "Extant Deepwoods", "mech", "Arathain"),
-    "bits_and_chisels": ("Bits and Chisels", "ThatTrollzer", "Starfall Ruins", "decoration", "Arathain"),
-    "cardstock": ("CardStock", "Repulica, LemmaEOF", "The Campgrounds", "tech", "Arathain"),
-    "cc_restitched": ("ComputerCraft: Restitched", "Merith, Patbox, SquidDev", "Overlook Point", "tech", "Arathain"),
-    "chocolate_bar": ("Chocolate Bar", "woodiertexas", "CL Industries", "creature", "Arathain"),
-    "consistency_plus": ("Consistency Plus", "Cart3r, Tropheus Jay, Siuol", "Extant Deepwoods", "decoration", "Arathain"),
-    "destroy_the_monument": ("Destroy The Monument", "NucleoidMC", "Midway Park", "creature", "Arathain"),
-    "fabulously_optimized": ("Fabulously Optimized", "robotkoer", "Starfall Ruins", "tech", "Arathain"),
+    "bing_bing_wahoo": ("Bing Bing Wahoo", "Tropheus Jay, Soggy Cereal", "deepwoods", "mech", "Arathain"),
+    "bits_and_chisels": ("Bits and Chisels", "ThatTrollzer", "starfall", "decoration", "Arathain"),
+    "cardstock": ("CardStock", "Repulica, LemmaEOF", "campgrounds", "tech", "Arathain"),
+    "cc_restitched": ("ComputerCraft: Restitched", "Merith, Patbox, SquidDev", "overlook", "tech", "Arathain"),
+    "chocolate_bar": ("Chocolate Bar", "woodiertexas", "industries", "creature", "Arathain"),
+    "consistency_plus": ("Consistency Plus", "Cart3r, Tropheus Jay, Siuol", "deepwoods", "decoration", "Arathain"),
+    "destroy_the_monument": ("Destroy The Monument", "NucleoidMC", "midway", "creature", "Arathain"),
+    "fabulously_optimized": ("Fabulously Optimized", "robotkoer", "starfall", "tech", "Arathain"),
     # "guard_villagers": (),
-    "haema": ("Haema", "Will BL", "The Campgrounds", "magic", "Arathain"),
+    "haema": ("Haema", "Will BL", "campgrounds", "magic", "Arathain"),
     # "iris": (),
-    "jamtastic": ("Jamtastic", "jamalam", "Jacaranda Area", "creature", "Arathain"),
-    "lovely_snails": ("Lovely Snails", "LambdAurora", "Starfall Ruins", "creature", "Arathain"),
-    "mbembe": ("Mbembe", "ArathainFarqoe, Mango, Coolrex, Ninni, Zae", "Jacaranda Area", "creature", "Arathain"),
-    "milk_plus": ("Milk+", "Tropheus Jay", "Jacaranda Area", "nature", "Arathain"),
-    "now_playing": ("Now Playing", "AppleTheGolden", "Extant Deepwoods", "tech", "Arathain"),
+    "jamtastic": ("Jamtastic", "jamalam", "springtide", "creature", "Arathain"),
+    "lovely_snails": ("Lovely Snails", "LambdAurora", "starfall", "creature", "Arathain"),
+    "mbembe": ("Mbembe", "ArathainFarqoe, Mango, Coolrex, Ninni, Zae", "springtide", "creature", "Arathain"),
+    "milk_plus": ("Milk+", "Tropheus Jay", "springtide", "nature", "Arathain"),
+    "now_playing": ("Now Playing", "AppleTheGolden", "deepwoods", "tech", "Arathain"),
     # "overweight_farming": (),
-    "phonos": ("Phonos", "FoundationGames", "Overlook Point", "mech", "Arathain"),
-    "polymc": ("PolyMc", "TheEpicBlock", "Midway Park", "tech", "Arathain"),
-    "portal_cubed": ("Portal Cubed", "Portal Cubed team", "The Campgrounds", "tech", "Arathain"),
+    "phonos": ("Phonos", "FoundationGames", "overlook", "mech", "Arathain"),
+    "polymc": ("PolyMc", "TheEpicBlock", "midway", "tech", "Arathain"),
+    "portal_cubed": ("Portal Cubed", "Portal Cubed team", "campgrounds", "tech", "Arathain"),
     # "qcraft": (),
-    "quakecraft": ("QuakeCraft", "NucleoidMC", "Midway Park", "creature", "Arathain"),
-    "reaping": ("Reaping Mod", "Jamalam", "Overlook Point", "creature", "Arathain"),
+    "quakecraft": ("QuakeCraft", "NucleoidMC", "midway", "creature", "Arathain"),
+    "reaping": ("Reaping Mod", "Jamalam", "overlook", "creature", "Arathain"),
     # "resounding": (),
-    "sandwichable": ("Sandwichable", "FoundationGames", "Extant Deepwoods", "nature", "Arathain")
+    "sandwichable": ("Sandwichable", "FoundationGames", "deepwoods", "nature", "Arathain")
     # "witherite": ()
 }
 
-langs = {}
+langs = {
+    "location.blanketcon.campgrounds": "The Campgrounds",
+    "location.blanketcon.starfall": "Starfall Ruins",
+    "location.blanketcon.lakeside": "Lakeside Resort",
+    "location.blanketcon.overlook": "Overlook Point",
+    "location.blanketcon.springtide": "Springtide Fields",
+    "location.blanketcon.industries": "CL Industries",
+    "location.blanketcon.deepwoods": "Extant Deepwoods",
+    "location.blanketcon.midway": "Midway Park",
+    "location.blanketcon.todo": "TODO: Locate Me",
+    "text.blanketcon.located": "Located in",
+    "text.blanketcon.by": "By"
+}
 generated_cards = 0
 
 def write_booth_card(kdl, key, info, rhf):
@@ -59,12 +71,14 @@ def write_booth_card(kdl, key, info, rhf):
     kdl.write('card "' + path + '" {\n')
     kdl.write('\trarity ' + ('2' if rhf else '1') + '\n')
     kdl.write('\tinfo {\n')
-    kdl.write('\t\t- text="Located in " color="gray"\n')
-    kdl.write('\t\t- text="' + location + '" color="' + zone_colors[location] + '"\n')
+    kdl.write('\t\t- translate="text.blanketcon.located" color="gray"\n')
+    kdl.write('\t\t- text=" " color="gray"\n')
+    kdl.write('\t\t- translate="location.blanketcon.' + location + '" color="' + zone_colors[location] + '"\n')
     kdl.write('\t}\n')
     kdl.write('\t lore {\n')
     kdl.write('\t\t- {\n')
-    kdl.write('\t\t\t- text="by " color="gray" \n')
+    kdl.write('\t\t\t- translate="text.blanketcon.by" color="gray" \n')
+    kdl.write('\t\t\t- text=" " color="gray"\n')
     kdl.write('\t\t\t- text="' + authors + '" color="green"\n')
     kdl.write('\t\t}\n')
     kdl.write('\t}\n')
