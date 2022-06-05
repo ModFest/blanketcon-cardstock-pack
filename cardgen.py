@@ -40,8 +40,9 @@ booth_cards = {
     "quakecraft": ("QuakeCraft", "NucleoidMC", "midway", "creature", "Arathain"),
     "reaping": ("Reaping Mod", "Jamalam", "overlook", "creature", "Arathain"),
     # "resounding": (),
-    "sandwichable": ("Sandwichable", "FoundationGames", "deepwoods", "nature", "Arathain")
-    # "witherite": ()
+    "sandwichable": ("Sandwichable", "FoundationGames", "deepwoods", "nature", "Arathain"),
+    # "witherite": (),
+    "purpeille": ("Purpeille", "acikek, VirtuaLilith, Trudle, Jeb_Kerm", "springtide", "magic", "VirtuaLilith")
 }
 
 langs = {
@@ -58,6 +59,7 @@ langs = {
     "text.blanketcon.by": "By"
 }
 generated_cards = 0
+
 
 def write_booth_card(kdl, key, info, rhf):
     name, authors, location, frame, artist = info
@@ -101,6 +103,7 @@ def write_booth_card(kdl, key, info, rhf):
             mjson["textures"]["holo_right"] = "blanketcon:item/card/frame/" + frame + "_rhf_right"
         model.write(json.dumps(mjson, indent=4))
     print("Generated card " + path)
+
 
 with open('src/main/resources/data/blanketcon/cardstock/sets/blanketcon.kdl', 'w') as kdl:
     kdl.write('emblem "blanketcon:textures/gui/blanketcon.png"\n')

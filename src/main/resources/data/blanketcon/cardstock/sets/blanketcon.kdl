@@ -747,3 +747,37 @@ card "sandwichable_rhf" {
 	artist "Arathain"
 	date "2022"
 }
+card "purpeille" {
+	rarity 1
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.springtide" color="dark_purple"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray" 
+			- text=" " color="gray"
+			- text="acikek, VirtuaLilith, Trudle, Jeb_Kerm" color="green"
+		}
+	}
+	artist "VirtuaLilith"
+	date "2022"
+}
+card "purpeille_rhf" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.springtide" color="dark_purple"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray" 
+			- text=" " color="gray"
+			- text="acikek, VirtuaLilith, Trudle, Jeb_Kerm" color="green"
+		}
+	}
+	artist "VirtuaLilith"
+	date "2022"
+}
