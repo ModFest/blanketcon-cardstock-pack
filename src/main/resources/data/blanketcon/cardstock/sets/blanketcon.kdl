@@ -112,7 +112,7 @@ card "architecture_extensions" {
 		- {
 			- translate="text.blanketcon.by" color="gray"
 			- text=" " color="gray"
-			- text="WoodierTexas" color="green"
+			- text="woodiertexas" color="green"
 		}
 	}
 	artist "???"
@@ -129,7 +129,7 @@ card "architecture_extensions_rhf" {
 		- {
 			- translate="text.blanketcon.by" color="gray"
 			- text=" " color="gray"
-			- text="WoodierTexas" color="green"
+			- text="woodiertexas" color="green"
 		}
 	}
 	artist "???"
@@ -1665,40 +1665,6 @@ card "hip_hoppers_rhf" {
 	artist "Arathain"
 	date "2022"
 }
-card "hud_overhaul" {
-	rarity 2
-	info {
-		- translate="text.blanketcon.located" color="gray"
-		- text=" " color="gray"
-		- translate="location.blanketcon.todo" color="red"
-	}
-	 lore {
-		- {
-			- translate="text.blanketcon.by" color="gray"
-			- text=" " color="gray"
-			- text="XanderStuff" color="green"
-		}
-	}
-	artist "Arathain"
-	date "2022"
-}
-card "hud_overhaul_rhf" {
-	rarity 4
-	info {
-		- translate="text.blanketcon.located" color="gray"
-		- text=" " color="gray"
-		- translate="location.blanketcon.todo" color="red"
-	}
-	 lore {
-		- {
-			- translate="text.blanketcon.by" color="gray"
-			- text=" " color="gray"
-			- text="XanderStuff" color="green"
-		}
-	}
-	artist "Arathain"
-	date "2022"
-}
 card "icy_incitement" {
 	rarity 2
 	info {
@@ -2275,6 +2241,40 @@ card "phonos_rhf" {
 		}
 	}
 	artist "Arathain"
+	date "2022"
+}
+card "picture_sign" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.lakeside" color="light_purple"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Motschen" color="green"
+		}
+	}
+	artist "???"
+	date "2022"
+}
+card "picture_sign_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.lakeside" color="light_purple"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Motschen" color="green"
+		}
+	}
+	artist "???"
 	date "2022"
 }
 card "pigpen" {
@@ -3195,6 +3195,40 @@ card "this_rocks_rhf" {
 	artist "Arathain"
 	date "2022"
 }
+card "ultimatehud" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.todo" color="red"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="XanderStuff" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "ultimatehud_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.todo" color="red"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="XanderStuff" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
 card "visible_barriers" {
 	rarity 2
 	info {
@@ -3227,6 +3261,40 @@ card "visible_barriers_rhf" {
 		}
 	}
 	artist "Arathain"
+	date "2022"
+}
+card "visual_overhaul" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.lakeside" color="light_purple"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Motschen" color="green"
+		}
+	}
+	artist "???"
+	date "2022"
+}
+card "visual_overhaul_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.lakeside" color="light_purple"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Motschen" color="green"
+		}
+	}
+	artist "???"
 	date "2022"
 }
 card "xp_share" {
