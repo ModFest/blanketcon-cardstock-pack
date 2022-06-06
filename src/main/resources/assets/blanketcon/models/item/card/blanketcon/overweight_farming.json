@@ -1,0 +1,7 @@
+{
+    "parent": "cardstock:builtin/card",
+    "textures": {
+        "art": "blanketcon:item/card/art/overweight_farming",
+        "frame": "blanketcon:item/card/frame/nature"
+    }
+}

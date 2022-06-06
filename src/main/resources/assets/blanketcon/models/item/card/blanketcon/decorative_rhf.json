@@ -1,0 +1,10 @@
+{
+    "parent": "cardstock:builtin/card",
+    "textures": {
+        "art": "blanketcon:item/card/art/decorative",
+        "frame": "blanketcon:item/card/frame/decoration",
+        "holo_left": "blanketcon:item/card/frame/decoration_rhf_left",
+        "holo_center": "blanketcon:item/card/frame/decoration_rhf_center",
+        "holo_right": "blanketcon:item/card/frame/decoration_rhf_right"
+    }
+}

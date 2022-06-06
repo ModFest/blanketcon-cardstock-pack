@@ -1,0 +1,7 @@
+{
+    "parent": "cardstock:builtin/card",
+    "textures": {
+        "art": "blanketcon:item/card/art/dyeable_fishing_lines",
+        "frame": "blanketcon:item/card/frame/decoration"
+    }
+}

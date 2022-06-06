@@ -1,0 +1,7 @@
+{
+    "parent": "cardstock:builtin/card",
+    "textures": {
+        "art": "blanketcon:item/card/art/double_jump_attribute",
+        "frame": "blanketcon:item/card/frame/mech"
+    }
+}

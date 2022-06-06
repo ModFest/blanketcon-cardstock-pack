@@ -1,6 +1,40 @@
 emblem "blanketcon:textures/gui/blanketcon.png"
+card "additional_banners" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.campgrounds" color="aqua"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Darkhax" color="green"
+		}
+	}
+	artist "???"
+	date "2022"
+}
+card "additional_banners_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.campgrounds" color="aqua"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Darkhax" color="green"
+		}
+	}
+	artist "???"
+	date "2022"
+}
 card "allium" {
-	rarity 1
+	rarity 2
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -8,7 +42,7 @@ card "allium" {
 	}
 	 lore {
 		- {
-			- translate="text.blanketcon.by" color="gray" 
+			- translate="text.blanketcon.by" color="gray"
 			- text=" " color="gray"
 			- text="hugeblank, Patbox, BasiqueEvangelist" color="green"
 		}
@@ -17,7 +51,7 @@ card "allium" {
 	date "2022"
 }
 card "allium_rhf" {
-	rarity 2
+	rarity 4
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -25,7 +59,7 @@ card "allium_rhf" {
 	}
 	 lore {
 		- {
-			- translate="text.blanketcon.by" color="gray" 
+			- translate="text.blanketcon.by" color="gray"
 			- text=" " color="gray"
 			- text="hugeblank, Patbox, BasiqueEvangelist" color="green"
 		}
@@ -33,8 +67,42 @@ card "allium_rhf" {
 	artist "Arathain"
 	date "2022"
 }
-card "aurora_decor" {
-	rarity 1
+card "arcanus_2" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.campgrounds" color="aqua"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Cammie, Will BL, MrSterner, ArathainFarqoe" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "arcanus_2_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.campgrounds" color="aqua"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Cammie, Will BL, MrSterner, ArathainFarqoe" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "architecture_extensions" {
+	rarity 2
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -42,7 +110,143 @@ card "aurora_decor" {
 	}
 	 lore {
 		- {
-			- translate="text.blanketcon.by" color="gray" 
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="WoodierTexas" color="green"
+		}
+	}
+	artist "???"
+	date "2022"
+}
+card "architecture_extensions_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.starfall" color="dark_gray"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="WoodierTexas" color="green"
+		}
+	}
+	artist "???"
+	date "2022"
+}
+card "archon" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.campgrounds" color="aqua"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Safro" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "archon_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.campgrounds" color="aqua"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Safro" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "armor_stand_editor" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.midway" color="gold"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Patbox" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "armor_stand_editor_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.midway" color="gold"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Patbox" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "aura" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.lakeside" color="light_purple"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="maximum, DrRubisco" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "aura_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.lakeside" color="light_purple"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="maximum, DrRubisco" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "aurora_decor" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.starfall" color="dark_gray"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
 			- text=" " color="gray"
 			- text="LambdAurora" color="green"
 		}
@@ -51,7 +255,7 @@ card "aurora_decor" {
 	date "2022"
 }
 card "aurora_decor_rhf" {
-	rarity 2
+	rarity 4
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -59,7 +263,7 @@ card "aurora_decor_rhf" {
 	}
 	 lore {
 		- {
-			- translate="text.blanketcon.by" color="gray" 
+			- translate="text.blanketcon.by" color="gray"
 			- text=" " color="gray"
 			- text="LambdAurora" color="green"
 		}
@@ -67,8 +271,42 @@ card "aurora_decor_rhf" {
 	artist "Arathain"
 	date "2022"
 }
-card "bing_bing_wahoo" {
-	rarity 1
+card "automobility" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.springtide" color="dark_purple"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="FoundationGames" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "automobility_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.springtide" color="dark_purple"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="FoundationGames" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "bagels_baking" {
+	rarity 2
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -76,7 +314,109 @@ card "bing_bing_wahoo" {
 	}
 	 lore {
 		- {
-			- translate="text.blanketcon.by" color="gray" 
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="hugeblank, Aye, Solcat, Koritsi, ChocolateFrog18" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "bagels_baking_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.deepwoods" color="green"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="hugeblank, Aye, Solcat, Koritsi, ChocolateFrog18" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "bewitchment" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.todo" color="red"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Bewitchment Team" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "bewitchment_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.todo" color="red"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Bewitchment Team" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "bewitchment_plus" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.todo" color="red"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="MrSterner" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "bewitchment_plus_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.todo" color="red"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="MrSterner" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "bing_bing_wahoo" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.deepwoods" color="green"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
 			- text=" " color="gray"
 			- text="Tropheus Jay, Soggy Cereal" color="green"
 		}
@@ -85,7 +425,7 @@ card "bing_bing_wahoo" {
 	date "2022"
 }
 card "bing_bing_wahoo_rhf" {
-	rarity 2
+	rarity 4
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -93,7 +433,7 @@ card "bing_bing_wahoo_rhf" {
 	}
 	 lore {
 		- {
-			- translate="text.blanketcon.by" color="gray" 
+			- translate="text.blanketcon.by" color="gray"
 			- text=" " color="gray"
 			- text="Tropheus Jay, Soggy Cereal" color="green"
 		}
@@ -102,7 +442,7 @@ card "bing_bing_wahoo_rhf" {
 	date "2022"
 }
 card "bits_and_chisels" {
-	rarity 1
+	rarity 2
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -110,7 +450,7 @@ card "bits_and_chisels" {
 	}
 	 lore {
 		- {
-			- translate="text.blanketcon.by" color="gray" 
+			- translate="text.blanketcon.by" color="gray"
 			- text=" " color="gray"
 			- text="ThatTrollzer" color="green"
 		}
@@ -119,7 +459,7 @@ card "bits_and_chisels" {
 	date "2022"
 }
 card "bits_and_chisels_rhf" {
-	rarity 2
+	rarity 4
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -127,7 +467,7 @@ card "bits_and_chisels_rhf" {
 	}
 	 lore {
 		- {
-			- translate="text.blanketcon.by" color="gray" 
+			- translate="text.blanketcon.by" color="gray"
 			- text=" " color="gray"
 			- text="ThatTrollzer" color="green"
 		}
@@ -135,8 +475,76 @@ card "bits_and_chisels_rhf" {
 	artist "Arathain"
 	date "2022"
 }
-card "cardstock" {
-	rarity 1
+card "botania" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.industries" color="dark_aqua"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Vazkii, Williewillus, Hubry, Alwinfy" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "botania_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.industries" color="dark_aqua"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Vazkii, Williewillus, Hubry, Alwinfy" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "build_battle" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.deepwoods" color="green"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="NucleoidMC" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "build_battle_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.deepwoods" color="green"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="NucleoidMC" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "campanion" {
+	rarity 2
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -144,7 +552,41 @@ card "cardstock" {
 	}
 	 lore {
 		- {
-			- translate="text.blanketcon.by" color="gray" 
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Terraformers" color="green"
+		}
+	}
+	artist "???"
+	date "2022"
+}
+card "campanion_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.campgrounds" color="aqua"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Terraformers" color="green"
+		}
+	}
+	artist "???"
+	date "2022"
+}
+card "cardstock" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.campgrounds" color="aqua"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
 			- text=" " color="gray"
 			- text="Repulica, LemmaEOF" color="green"
 		}
@@ -153,7 +595,7 @@ card "cardstock" {
 	date "2022"
 }
 card "cardstock_rhf" {
-	rarity 2
+	rarity 4
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -161,7 +603,7 @@ card "cardstock_rhf" {
 	}
 	 lore {
 		- {
-			- translate="text.blanketcon.by" color="gray" 
+			- translate="text.blanketcon.by" color="gray"
 			- text=" " color="gray"
 			- text="Repulica, LemmaEOF" color="green"
 		}
@@ -169,8 +611,8 @@ card "cardstock_rhf" {
 	artist "Arathain"
 	date "2022"
 }
-card "cc_restitched" {
-	rarity 1
+card "cc_prometheus" {
+	rarity 2
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -178,7 +620,41 @@ card "cc_restitched" {
 	}
 	 lore {
 		- {
-			- translate="text.blanketcon.by" color="gray" 
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="SquidDev" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "cc_prometheus_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.overlook" color="yellow"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="SquidDev" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "cc_restitched" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.overlook" color="yellow"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
 			- text=" " color="gray"
 			- text="Merith, Patbox, SquidDev" color="green"
 		}
@@ -187,7 +663,7 @@ card "cc_restitched" {
 	date "2022"
 }
 card "cc_restitched_rhf" {
-	rarity 2
+	rarity 4
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -195,7 +671,7 @@ card "cc_restitched_rhf" {
 	}
 	 lore {
 		- {
-			- translate="text.blanketcon.by" color="gray" 
+			- translate="text.blanketcon.by" color="gray"
 			- text=" " color="gray"
 			- text="Merith, Patbox, SquidDev" color="green"
 		}
@@ -204,7 +680,7 @@ card "cc_restitched_rhf" {
 	date "2022"
 }
 card "chocolate_bar" {
-	rarity 1
+	rarity 2
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -212,7 +688,7 @@ card "chocolate_bar" {
 	}
 	 lore {
 		- {
-			- translate="text.blanketcon.by" color="gray" 
+			- translate="text.blanketcon.by" color="gray"
 			- text=" " color="gray"
 			- text="woodiertexas" color="green"
 		}
@@ -221,7 +697,7 @@ card "chocolate_bar" {
 	date "2022"
 }
 card "chocolate_bar_rhf" {
-	rarity 2
+	rarity 4
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -229,7 +705,7 @@ card "chocolate_bar_rhf" {
 	}
 	 lore {
 		- {
-			- translate="text.blanketcon.by" color="gray" 
+			- translate="text.blanketcon.by" color="gray"
 			- text=" " color="gray"
 			- text="woodiertexas" color="green"
 		}
@@ -237,8 +713,42 @@ card "chocolate_bar_rhf" {
 	artist "Arathain"
 	date "2022"
 }
+card "chromatic_currents" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.starfall" color="dark_gray"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Fusion Flux" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "chromatic_currents_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.starfall" color="dark_gray"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Fusion Flux" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
 card "consistency_plus" {
-	rarity 1
+	rarity 2
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -246,7 +756,7 @@ card "consistency_plus" {
 	}
 	 lore {
 		- {
-			- translate="text.blanketcon.by" color="gray" 
+			- translate="text.blanketcon.by" color="gray"
 			- text=" " color="gray"
 			- text="Cart3r, Tropheus Jay, Siuol" color="green"
 		}
@@ -255,6 +765,23 @@ card "consistency_plus" {
 	date "2022"
 }
 card "consistency_plus_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.deepwoods" color="green"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Cart3r, Tropheus Jay, Siuol" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "create" {
 	rarity 2
 	info {
 		- translate="text.blanketcon.located" color="gray"
@@ -263,16 +790,169 @@ card "consistency_plus_rhf" {
 	}
 	 lore {
 		- {
-			- translate="text.blanketcon.by" color="gray" 
+			- translate="text.blanketcon.by" color="gray"
 			- text=" " color="gray"
-			- text="Cart3r, Tropheus Jay, Siuol" color="green"
+			- text="Create Fabric Team" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "create_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.deepwoods" color="green"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Create Fabric Team" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "culinaire" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.industries" color="dark_aqua"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Dawn Team" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "culinaire_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.industries" color="dark_aqua"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Dawn Team" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "dark_paintings" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.campgrounds" color="aqua"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Darkhax" color="green"
+		}
+	}
+	artist "Darkhax"
+	date "2022"
+}
+card "dark_paintings_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.campgrounds" color="aqua"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Darkhax" color="green"
+		}
+	}
+	artist "Darkhax"
+	date "2022"
+}
+card "dark_utilities" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.campgrounds" color="aqua"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Darkhax" color="green"
+		}
+	}
+	artist "Darkhax"
+	date "2022"
+}
+card "dark_utilities_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.campgrounds" color="aqua"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Darkhax" color="green"
+		}
+	}
+	artist "Darkhax"
+	date "2022"
+}
+card "decorative" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.lakeside" color="light_purple"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Motschen" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "decorative_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.lakeside" color="light_purple"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Motschen" color="green"
 		}
 	}
 	artist "Arathain"
 	date "2022"
 }
 card "destroy_the_monument" {
-	rarity 1
+	rarity 2
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -280,7 +960,7 @@ card "destroy_the_monument" {
 	}
 	 lore {
 		- {
-			- translate="text.blanketcon.by" color="gray" 
+			- translate="text.blanketcon.by" color="gray"
 			- text=" " color="gray"
 			- text="NucleoidMC" color="green"
 		}
@@ -289,7 +969,7 @@ card "destroy_the_monument" {
 	date "2022"
 }
 card "destroy_the_monument_rhf" {
-	rarity 2
+	rarity 4
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -297,7 +977,7 @@ card "destroy_the_monument_rhf" {
 	}
 	 lore {
 		- {
-			- translate="text.blanketcon.by" color="gray" 
+			- translate="text.blanketcon.by" color="gray"
 			- text=" " color="gray"
 			- text="NucleoidMC" color="green"
 		}
@@ -305,8 +985,110 @@ card "destroy_the_monument_rhf" {
 	artist "Arathain"
 	date "2022"
 }
-card "fabulously_optimized" {
-	rarity 1
+card "double_jump_attribute" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.deepwoods" color="green"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Amy" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "double_jump_attribute_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.deepwoods" color="green"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Amy" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "dyeable_fishing_lines" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.deepwoods" color="green"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Fusion Flux" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "dyeable_fishing_lines_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.deepwoods" color="green"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Fusion Flux" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "ears" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.campgrounds" color="aqua"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="unascribed" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "ears_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.campgrounds" color="aqua"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="unascribed" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "ecotones" {
+	rarity 2
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -314,7 +1096,177 @@ card "fabulously_optimized" {
 	}
 	 lore {
 		- {
-			- translate="text.blanketcon.by" color="gray" 
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="supercoder79" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "ecotones_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.starfall" color="dark_gray"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="supercoder79" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "emi" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.campgrounds" color="aqua"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Emi" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "emi_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.campgrounds" color="aqua"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Emi" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "enchancement" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.starfall" color="dark_gray"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="MoriyaShiine" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "enchancement_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.starfall" color="dark_gray"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="MoriyaShiine" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "endermantic_overhaul" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.campgrounds" color="aqua"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="anonym123" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "endermantic_overhaul_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.campgrounds" color="aqua"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="anonym123" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "extended_drawers" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.lakeside" color="light_purple"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="MattiDragon" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "extended_drawers_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.lakeside" color="light_purple"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="MattiDragon" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "fabulously_optimized" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.starfall" color="dark_gray"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
 			- text=" " color="gray"
 			- text="robotkoer" color="green"
 		}
@@ -323,7 +1275,7 @@ card "fabulously_optimized" {
 	date "2022"
 }
 card "fabulously_optimized_rhf" {
-	rarity 2
+	rarity 4
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -331,7 +1283,7 @@ card "fabulously_optimized_rhf" {
 	}
 	 lore {
 		- {
-			- translate="text.blanketcon.by" color="gray" 
+			- translate="text.blanketcon.by" color="gray"
 			- text=" " color="gray"
 			- text="robotkoer" color="green"
 		}
@@ -339,8 +1291,8 @@ card "fabulously_optimized_rhf" {
 	artist "Arathain"
 	date "2022"
 }
-card "haema" {
-	rarity 1
+card "flamingo" {
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -348,7 +1300,245 @@ card "haema" {
 	}
 	 lore {
 		- {
-			- translate="text.blanketcon.by" color="gray" 
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="copygirl, Vexatos" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "flamingo_rhf" {
+	rarity 5
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.campgrounds" color="aqua"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="copygirl, Vexatos" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "flowery_structures" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.deepwoods" color="green"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="JustAnUmbreon" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "flowery_structures_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.deepwoods" color="green"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="JustAnUmbreon" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "flying_fluxery" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.todo" color="red"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Fusion Flux" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "flying_fluxery_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.todo" color="red"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Fusion Flux" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "fortress" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.midway" color="gold"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="NucleoidMC" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "fortress_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.midway" color="gold"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="NucleoidMC" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "fusions_grapples" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.springtide" color="dark_purple"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Fusion Flux" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "fusions_grapples_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.springtide" color="dark_purple"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Fusion Flux" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "goml_reserved" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.midway" color="gold"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Patbox, Draylar" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "goml_reserved_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.midway" color="gold"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Patbox, Draylar" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "guard_villagers" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.todo" color="red"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="MrSterner" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "guard_villagers_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.todo" color="red"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="MrSterner" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "haema" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.campgrounds" color="aqua"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
 			- text=" " color="gray"
 			- text="Will BL" color="green"
 		}
@@ -357,7 +1547,7 @@ card "haema" {
 	date "2022"
 }
 card "haema_rhf" {
-	rarity 2
+	rarity 4
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -365,7 +1555,7 @@ card "haema_rhf" {
 	}
 	 lore {
 		- {
-			- translate="text.blanketcon.by" color="gray" 
+			- translate="text.blanketcon.by" color="gray"
 			- text=" " color="gray"
 			- text="Will BL" color="green"
 		}
@@ -373,8 +1563,76 @@ card "haema_rhf" {
 	artist "Arathain"
 	date "2022"
 }
-card "jamtastic" {
-	rarity 1
+card "half_doors" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.deepwoods" color="green"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Amy" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "half_doors_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.deepwoods" color="green"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Amy" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "hex_casting" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.starfall" color="dark_gray"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Petrak@, Alwinfy, Wiresegal" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "hex_casting_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.starfall" color="dark_gray"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Petrak@, Alwinfy, Wiresegal" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "hip_hoppers" {
+	rarity 2
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -382,7 +1640,211 @@ card "jamtastic" {
 	}
 	 lore {
 		- {
-			- translate="text.blanketcon.by" color="gray" 
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Fusion Flux" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "hip_hoppers_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.springtide" color="dark_purple"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Fusion Flux" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "hud_overhaul" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.todo" color="red"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="XanderStuff" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "hud_overhaul_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.todo" color="red"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="XanderStuff" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "icy_incitement" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.deepwoods" color="green"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Amy" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "icy_incitement_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.deepwoods" color="green"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Amy" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "incorporeal" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.industries" color="dark_aqua"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="quat, Artemis System" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "incorporeal_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.industries" color="dark_aqua"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="quat, Artemis System" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "inspecio" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.todo" color="red"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="LambdAurora, Emi" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "inspecio_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.todo" color="red"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="LambdAurora, Emi" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "iris" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.todo" color="red"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="IMS" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "iris_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.todo" color="red"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="IMS" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "jamtastic" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.springtide" color="dark_purple"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
 			- text=" " color="gray"
 			- text="jamalam" color="green"
 		}
@@ -391,7 +1853,7 @@ card "jamtastic" {
 	date "2022"
 }
 card "jamtastic_rhf" {
-	rarity 2
+	rarity 4
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -399,7 +1861,7 @@ card "jamtastic_rhf" {
 	}
 	 lore {
 		- {
-			- translate="text.blanketcon.by" color="gray" 
+			- translate="text.blanketcon.by" color="gray"
 			- text=" " color="gray"
 			- text="jamalam" color="green"
 		}
@@ -407,8 +1869,42 @@ card "jamtastic_rhf" {
 	artist "Arathain"
 	date "2022"
 }
+card "kiln" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.campgrounds" color="aqua"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="LemmaEOF, ZestyBlaze, BluKat" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "kiln_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.campgrounds" color="aqua"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="LemmaEOF, ZestyBlaze, BluKat" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
 card "lovely_snails" {
-	rarity 1
+	rarity 2
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -416,7 +1912,7 @@ card "lovely_snails" {
 	}
 	 lore {
 		- {
-			- translate="text.blanketcon.by" color="gray" 
+			- translate="text.blanketcon.by" color="gray"
 			- text=" " color="gray"
 			- text="LambdAurora" color="green"
 		}
@@ -425,7 +1921,7 @@ card "lovely_snails" {
 	date "2022"
 }
 card "lovely_snails_rhf" {
-	rarity 2
+	rarity 4
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -433,7 +1929,7 @@ card "lovely_snails_rhf" {
 	}
 	 lore {
 		- {
-			- translate="text.blanketcon.by" color="gray" 
+			- translate="text.blanketcon.by" color="gray"
 			- text=" " color="gray"
 			- text="LambdAurora" color="green"
 		}
@@ -441,8 +1937,42 @@ card "lovely_snails_rhf" {
 	artist "Arathain"
 	date "2022"
 }
+card "matchbox" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.campgrounds" color="aqua"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Sunroses" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "matchbox_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.campgrounds" color="aqua"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Sunroses" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
 card "mbembe" {
-	rarity 1
+	rarity 2
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -450,7 +1980,7 @@ card "mbembe" {
 	}
 	 lore {
 		- {
-			- translate="text.blanketcon.by" color="gray" 
+			- translate="text.blanketcon.by" color="gray"
 			- text=" " color="gray"
 			- text="ArathainFarqoe, Mango, Coolrex, Ninni, Zae" color="green"
 		}
@@ -459,7 +1989,7 @@ card "mbembe" {
 	date "2022"
 }
 card "mbembe_rhf" {
-	rarity 2
+	rarity 4
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -467,7 +1997,7 @@ card "mbembe_rhf" {
 	}
 	 lore {
 		- {
-			- translate="text.blanketcon.by" color="gray" 
+			- translate="text.blanketcon.by" color="gray"
 			- text=" " color="gray"
 			- text="ArathainFarqoe, Mango, Coolrex, Ninni, Zae" color="green"
 		}
@@ -476,7 +2006,7 @@ card "mbembe_rhf" {
 	date "2022"
 }
 card "milk_plus" {
-	rarity 1
+	rarity 2
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -484,7 +2014,7 @@ card "milk_plus" {
 	}
 	 lore {
 		- {
-			- translate="text.blanketcon.by" color="gray" 
+			- translate="text.blanketcon.by" color="gray"
 			- text=" " color="gray"
 			- text="Tropheus Jay" color="green"
 		}
@@ -493,7 +2023,7 @@ card "milk_plus" {
 	date "2022"
 }
 card "milk_plus_rhf" {
-	rarity 2
+	rarity 4
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -501,7 +2031,7 @@ card "milk_plus_rhf" {
 	}
 	 lore {
 		- {
-			- translate="text.blanketcon.by" color="gray" 
+			- translate="text.blanketcon.by" color="gray"
 			- text=" " color="gray"
 			- text="Tropheus Jay" color="green"
 		}
@@ -510,7 +2040,7 @@ card "milk_plus_rhf" {
 	date "2022"
 }
 card "now_playing" {
-	rarity 1
+	rarity 2
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -518,7 +2048,7 @@ card "now_playing" {
 	}
 	 lore {
 		- {
-			- translate="text.blanketcon.by" color="gray" 
+			- translate="text.blanketcon.by" color="gray"
 			- text=" " color="gray"
 			- text="AppleTheGolden" color="green"
 		}
@@ -527,7 +2057,7 @@ card "now_playing" {
 	date "2022"
 }
 card "now_playing_rhf" {
-	rarity 2
+	rarity 4
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -535,7 +2065,7 @@ card "now_playing_rhf" {
 	}
 	 lore {
 		- {
-			- translate="text.blanketcon.by" color="gray" 
+			- translate="text.blanketcon.by" color="gray"
 			- text=" " color="gray"
 			- text="AppleTheGolden" color="green"
 		}
@@ -543,8 +2073,178 @@ card "now_playing_rhf" {
 	artist "Arathain"
 	date "2022"
 }
+card "overweight_farming" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.todo" color="red"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="MrSterner" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "overweight_farming_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.todo" color="red"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="MrSterner" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "oxidized" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.springtide" color="dark_purple"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Safro" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "oxidized_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.springtide" color="dark_purple"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Safro" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "packages" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.industries" color="dark_aqua"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="quat" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "packages_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.industries" color="dark_aqua"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="quat" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "pehkui" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.starfall" color="dark_gray"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Virtuoel" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "pehkui_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.starfall" color="dark_gray"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Virtuoel" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "pettable_bees" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.springtide" color="dark_purple"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Fusion Flux" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "pettable_bees_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.springtide" color="dark_purple"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Fusion Flux" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
 card "phonos" {
-	rarity 1
+	rarity 2
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -552,7 +2252,7 @@ card "phonos" {
 	}
 	 lore {
 		- {
-			- translate="text.blanketcon.by" color="gray" 
+			- translate="text.blanketcon.by" color="gray"
 			- text=" " color="gray"
 			- text="FoundationGames" color="green"
 		}
@@ -561,7 +2261,7 @@ card "phonos" {
 	date "2022"
 }
 card "phonos_rhf" {
-	rarity 2
+	rarity 4
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -569,7 +2269,7 @@ card "phonos_rhf" {
 	}
 	 lore {
 		- {
-			- translate="text.blanketcon.by" color="gray" 
+			- translate="text.blanketcon.by" color="gray"
 			- text=" " color="gray"
 			- text="FoundationGames" color="green"
 		}
@@ -577,8 +2277,110 @@ card "phonos_rhf" {
 	artist "Arathain"
 	date "2022"
 }
+card "pigpen" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.campgrounds" color="aqua"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Darkhax" color="green"
+		}
+	}
+	artist "Darkhax"
+	date "2022"
+}
+card "pigpen_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.campgrounds" color="aqua"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Darkhax" color="green"
+		}
+	}
+	artist "Darkhax"
+	date "2022"
+}
+card "player_pronouns" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.todo" color="red"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Ash" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "player_pronouns_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.todo" color="red"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Ash" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "polaroid_camera" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.springtide" color="dark_purple"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Pigeon" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "polaroid_camera_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.springtide" color="dark_purple"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Pigeon" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
 card "polymc" {
-	rarity 1
+	rarity 2
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -586,7 +2388,7 @@ card "polymc" {
 	}
 	 lore {
 		- {
-			- translate="text.blanketcon.by" color="gray" 
+			- translate="text.blanketcon.by" color="gray"
 			- text=" " color="gray"
 			- text="TheEpicBlock" color="green"
 		}
@@ -595,7 +2397,7 @@ card "polymc" {
 	date "2022"
 }
 card "polymc_rhf" {
-	rarity 2
+	rarity 4
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -603,7 +2405,7 @@ card "polymc_rhf" {
 	}
 	 lore {
 		- {
-			- translate="text.blanketcon.by" color="gray" 
+			- translate="text.blanketcon.by" color="gray"
 			- text=" " color="gray"
 			- text="TheEpicBlock" color="green"
 		}
@@ -612,7 +2414,7 @@ card "polymc_rhf" {
 	date "2022"
 }
 card "portal_cubed" {
-	rarity 1
+	rarity 2
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -620,7 +2422,7 @@ card "portal_cubed" {
 	}
 	 lore {
 		- {
-			- translate="text.blanketcon.by" color="gray" 
+			- translate="text.blanketcon.by" color="gray"
 			- text=" " color="gray"
 			- text="Portal Cubed team" color="green"
 		}
@@ -629,7 +2431,7 @@ card "portal_cubed" {
 	date "2022"
 }
 card "portal_cubed_rhf" {
-	rarity 2
+	rarity 4
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -637,7 +2439,7 @@ card "portal_cubed_rhf" {
 	}
 	 lore {
 		- {
-			- translate="text.blanketcon.by" color="gray" 
+			- translate="text.blanketcon.by" color="gray"
 			- text=" " color="gray"
 			- text="Portal Cubed team" color="green"
 		}
@@ -645,110 +2447,42 @@ card "portal_cubed_rhf" {
 	artist "Arathain"
 	date "2022"
 }
-card "quakecraft" {
-	rarity 1
-	info {
-		- translate="text.blanketcon.located" color="gray"
-		- text=" " color="gray"
-		- translate="location.blanketcon.midway" color="gold"
-	}
-	 lore {
-		- {
-			- translate="text.blanketcon.by" color="gray" 
-			- text=" " color="gray"
-			- text="NucleoidMC" color="green"
-		}
-	}
-	artist "Arathain"
-	date "2022"
-}
-card "quakecraft_rhf" {
+card "promenade" {
 	rarity 2
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
-		- translate="location.blanketcon.midway" color="gold"
+		- translate="location.blanketcon.starfall" color="dark_gray"
 	}
 	 lore {
 		- {
-			- translate="text.blanketcon.by" color="gray" 
+			- translate="text.blanketcon.by" color="gray"
 			- text=" " color="gray"
-			- text="NucleoidMC" color="green"
+			- text="Dawn Team" color="green"
 		}
 	}
 	artist "Arathain"
 	date "2022"
 }
-card "reaping" {
-	rarity 1
+card "promenade_rhf" {
+	rarity 4
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
-		- translate="location.blanketcon.overlook" color="yellow"
+		- translate="location.blanketcon.starfall" color="dark_gray"
 	}
 	 lore {
 		- {
-			- translate="text.blanketcon.by" color="gray" 
+			- translate="text.blanketcon.by" color="gray"
 			- text=" " color="gray"
-			- text="Jamalam" color="green"
+			- text="Dawn Team" color="green"
 		}
 	}
 	artist "Arathain"
 	date "2022"
 }
-card "reaping_rhf" {
+card "pswg" {
 	rarity 2
-	info {
-		- translate="text.blanketcon.located" color="gray"
-		- text=" " color="gray"
-		- translate="location.blanketcon.overlook" color="yellow"
-	}
-	 lore {
-		- {
-			- translate="text.blanketcon.by" color="gray" 
-			- text=" " color="gray"
-			- text="Jamalam" color="green"
-		}
-	}
-	artist "Arathain"
-	date "2022"
-}
-card "sandwichable" {
-	rarity 1
-	info {
-		- translate="text.blanketcon.located" color="gray"
-		- text=" " color="gray"
-		- translate="location.blanketcon.deepwoods" color="green"
-	}
-	 lore {
-		- {
-			- translate="text.blanketcon.by" color="gray" 
-			- text=" " color="gray"
-			- text="FoundationGames" color="green"
-		}
-	}
-	artist "Arathain"
-	date "2022"
-}
-card "sandwichable_rhf" {
-	rarity 2
-	info {
-		- translate="text.blanketcon.located" color="gray"
-		- text=" " color="gray"
-		- translate="location.blanketcon.deepwoods" color="green"
-	}
-	 lore {
-		- {
-			- translate="text.blanketcon.by" color="gray" 
-			- text=" " color="gray"
-			- text="FoundationGames" color="green"
-		}
-	}
-	artist "Arathain"
-	date "2022"
-}
-card "purpeille" {
-	rarity 1
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -756,7 +2490,41 @@ card "purpeille" {
 	}
 	 lore {
 		- {
-			- translate="text.blanketcon.by" color="gray" 
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="PSWG Team" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "pswg_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.springtide" color="dark_purple"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="PSWG Team" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "purpeille" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.springtide" color="dark_purple"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
 			- text=" " color="gray"
 			- text="acikek, VirtuaLilith, Trudle, Jeb_Kerm" color="green"
 		}
@@ -765,6 +2533,363 @@ card "purpeille" {
 	date "2022"
 }
 card "purpeille_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.springtide" color="dark_purple"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="acikek, VirtuaLilith, Trudle, Jeb_Kerm" color="green"
+		}
+	}
+	artist "VirtuaLilith"
+	date "2022"
+}
+card "qcraft" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.todo" color="red"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="acikek, VirtuaLilith" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "qcraft_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.todo" color="red"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="acikek, VirtuaLilith" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "quakecraft" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.midway" color="gold"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="NucleoidMC" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "quakecraft_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.midway" color="gold"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="NucleoidMC" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "quark" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.todo" color="red"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="wiresegal, Vazkii" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "quark_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.todo" color="red"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="wiresegal, Vazkii" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "reaping" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.overlook" color="yellow"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Jamalam" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "reaping_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.overlook" color="yellow"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Jamalam" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "recordable" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.lakeside" color="light_purple"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="burger" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "recordable_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.lakeside" color="light_purple"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="burger" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "resounding" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.todo" color="red"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="DrRubisco, iceGiant" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "resounding_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.todo" color="red"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="DrRubisco, iceGiant" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "riptide_rush" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.deepwoods" color="green"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Amy" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "riptide_rush_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.deepwoods" color="green"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Amy" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "runelic" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.campgrounds" color="aqua"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Darkhax" color="green"
+		}
+	}
+	artist "Darkhax"
+	date "2022"
+}
+card "runelic_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.campgrounds" color="aqua"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Darkhax" color="green"
+		}
+	}
+	artist "Darkhax"
+	date "2022"
+}
+card "sandwichable" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.deepwoods" color="green"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="FoundationGames" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "sandwichable_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.deepwoods" color="green"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="FoundationGames" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "simple_crates" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.campgrounds" color="aqua"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Sunroses" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "simple_crates_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.campgrounds" color="aqua"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Sunroses" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "simplevillagers" {
 	rarity 2
 	info {
 		- translate="text.blanketcon.located" color="gray"
@@ -773,11 +2898,402 @@ card "purpeille_rhf" {
 	}
 	 lore {
 		- {
-			- translate="text.blanketcon.by" color="gray" 
+			- translate="text.blanketcon.by" color="gray"
 			- text=" " color="gray"
-			- text="acikek, VirtuaLilith, Trudle, Jeb_Kerm" color="green"
+			- text="samo_lego" color="green"
 		}
 	}
-	artist "VirtuaLilith"
+	artist "Arathain"
+	date "2022"
+}
+card "simplevillagers_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.springtide" color="dark_purple"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="samo_lego" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "skywars" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.midway" color="gold"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="NucleoidMC" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "skywars_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.midway" color="gold"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="NucleoidMC" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "soul_ice" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.lakeside" color="light_purple"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Siuol" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "soul_ice_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.lakeside" color="light_purple"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Siuol" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "spacefactory" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.overlook" color="yellow"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="reoseah" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "spacefactory_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.overlook" color="yellow"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="reoseah" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "tatercart" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.midway" color="gold"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Patbox" color="green"
+		}
+	}
+	artist "???"
+	date "2022"
+}
+card "tatercart_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.midway" color="gold"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Patbox" color="green"
+		}
+	}
+	artist "???"
+	date "2022"
+}
+card "taterzens" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.todo" color="red"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="samo_lego" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "taterzens_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.todo" color="red"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="samo_lego" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "terracraft" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.campgrounds" color="aqua"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="SimplyCmd, RiverOaken" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "terracraft_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.campgrounds" color="aqua"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="SimplyCmd, RiverOaken" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "terrariamod" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.springtide" color="dark_purple"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Ryorama, Realz, Kelvin, Cepheus" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "terrariamod_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.springtide" color="dark_purple"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Ryorama, Realz, Kelvin, Cepheus" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "this_rocks" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.lakeside" color="light_purple"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Motschen" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "this_rocks_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.lakeside" color="light_purple"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Motschen" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "visible_barriers" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.deepwoods" color="green"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Amy" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "visible_barriers_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.deepwoods" color="green"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Amy" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "xp_share" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.todo" color="red"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Sunroses" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "xp_share_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.todo" color="red"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Sunroses" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "yungs_better_dtemples" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.todo" color="red"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="YUNGNICKYOUNG" color="green"
+		}
+	}
+	artist "Arathain"
+	date "2022"
+}
+card "yungs_better_dtemples_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.todo" color="red"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="YUNGNICKYOUNG" color="green"
+		}
+	}
+	artist "Arathain"
 	date "2022"
 }

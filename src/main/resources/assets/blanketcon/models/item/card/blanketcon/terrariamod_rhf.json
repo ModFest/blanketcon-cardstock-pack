@@ -1,0 +1,10 @@
+{
+    "parent": "cardstock:builtin/card",
+    "textures": {
+        "art": "blanketcon:item/card/art/terrariamod",
+        "frame": "blanketcon:item/card/frame/nature",
+        "holo_left": "blanketcon:item/card/frame/nature_rhf_left",
+        "holo_center": "blanketcon:item/card/frame/nature_rhf_center",
+        "holo_right": "blanketcon:item/card/frame/nature_rhf_right"
+    }
+}

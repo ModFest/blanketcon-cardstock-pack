@@ -1,0 +1,7 @@
+{
+    "parent": "cardstock:builtin/card",
+    "textures": {
+        "art": "blanketcon:item/card/art/bewitchment",
+        "frame": "blanketcon:item/card/frame/magic"
+    }
+}

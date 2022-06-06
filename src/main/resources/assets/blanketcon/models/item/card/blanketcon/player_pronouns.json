@@ -1,0 +1,7 @@
+{
+    "parent": "cardstock:builtin/card",
+    "textures": {
+        "art": "blanketcon:item/card/art/player_pronouns",
+        "frame": "blanketcon:item/card/frame/tech"
+    }
+}

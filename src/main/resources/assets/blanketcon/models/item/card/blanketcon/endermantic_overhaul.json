@@ -1,0 +1,7 @@
+{
+    "parent": "cardstock:builtin/card",
+    "textures": {
+        "art": "blanketcon:item/card/art/endermantic_overhaul",
+        "frame": "blanketcon:item/card/frame/mech"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "cardstock:builtin/card",
+    "textures": {
+        "art": "blanketcon:item/card/art/bagels_baking",
+        "frame": "blanketcon:item/card/frame/nature"
+    }
+}

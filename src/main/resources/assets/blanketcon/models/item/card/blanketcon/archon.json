@@ -1,0 +1,7 @@
+{
+    "parent": "cardstock:builtin/card",
+    "textures": {
+        "art": "blanketcon:item/card/art/archon",
+        "frame": "blanketcon:item/card/frame/magic"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "parent": "cardstock:builtin/card",
+    "textures": {
+        "art": "blanketcon:item/card/art/xp_share",
+        "frame": "blanketcon:item/card/frame/tech",
+        "holo_left": "blanketcon:item/card/frame/tech_rhf_left",
+        "holo_center": "blanketcon:item/card/frame/tech_rhf_center",
+        "holo_right": "blanketcon:item/card/frame/tech_rhf_right"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "cardstock:builtin/card",
+    "textures": {
+        "art": "blanketcon:item/card/art/pehkui",
+        "frame": "blanketcon:item/card/frame/tech"
+    }
+}
