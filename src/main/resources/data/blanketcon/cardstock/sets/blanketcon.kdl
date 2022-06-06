@@ -1292,7 +1292,7 @@ card "fabulously_optimized_rhf" {
 	date "2022"
 }
 card "flamingo" {
-	rarity 3
+	rarity 2
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -1309,7 +1309,7 @@ card "flamingo" {
 	date "2022"
 }
 card "flamingo_rhf" {
-	rarity 5
+	rarity 4
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -2622,7 +2622,7 @@ card "quark" {
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
-		- translate="location.blanketcon.todo" color="red"
+		- translate="location.blanketcon.industries" color="dark_aqua"
 	}
 	 lore {
 		- {
@@ -2639,7 +2639,7 @@ card "quark_rhf" {
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
-		- translate="location.blanketcon.todo" color="red"
+		- translate="location.blanketcon.industries" color="dark_aqua"
 	}
 	 lore {
 		- {

@@ -90,7 +90,7 @@ booth_cards = {
     "purpeille": ("Purpeille", "acikek, VirtuaLilith, Trudle, Jeb_Kerm", "springtide", "magic", "VirtuaLilith"),
     "qcraft": ("qCraft: Reimagined", "acikek, VirtuaLilith", "todo", "mech", "Arathain"),
     "quakecraft": ("QuakeCraft", "NucleoidMC", "midway", "creature", "Arathain"),
-    "quark": ("Quark", "wiresegal, Vazkii", "todo", "tech", "Arathain"),
+    "quark": ("Quark", "wiresegal, Vazkii", "industries", "tater", "Arathain"),
     "reaping": ("Reaping Mod", "Jamalam", "overlook", "creature", "Arathain"),
     "recordable": ("Recordable", "burger", "lakeside", "mech", "Arathain"),
     "resounding": ("Resounding", "DrRubisco, iceGiant", "todo", "tech", "Arathain"),
@@ -146,7 +146,7 @@ def write_booth_card(kdl, key, info, rhf):
     kdl.write('\t}\n')
     kdl.write('\t lore {\n')
     kdl.write('\t\t- {\n')
-    kdl.write('\t\t\t- translate="text.blanketcon.by" color="gray" \n')
+    kdl.write('\t\t\t- translate="text.blanketcon.by" color="gray"\n')
     kdl.write('\t\t\t- text=" " color="gray"\n')
     kdl.write('\t\t\t- text="' + authors + '" color="green"\n')
     kdl.write('\t\t}\n')
