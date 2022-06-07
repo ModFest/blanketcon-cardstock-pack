@@ -214,7 +214,7 @@ card "aura" {
 		- {
 			- translate="text.blanketcon.by" color="gray"
 			- text=" " color="gray"
-			- text="maximum, DrRubisco" color="green"
+			- text="maximum, DrRubisco, Cart3r" color="green"
 		}
 	}
 	artist "Arathain"
@@ -231,7 +231,7 @@ card "aura_rhf" {
 		- {
 			- translate="text.blanketcon.by" color="gray"
 			- text=" " color="gray"
-			- text="maximum, DrRubisco" color="green"
+			- text="maximum, DrRubisco, Cart3r" color="green"
 		}
 	}
 	artist "Arathain"
@@ -1427,7 +1427,7 @@ card "fortress_rhf" {
 	artist "Arathain"
 	date "2022"
 }
-card "fusions_grapples" {
+card "fusions_grappling_hook" {
 	rarity 2
 	info {
 		- translate="text.blanketcon.located" color="gray"
@@ -1444,7 +1444,7 @@ card "fusions_grapples" {
 	artist "Arathain"
 	date "2022"
 }
-card "fusions_grapples_rhf" {
+card "fusions_grappling_hook_rhf" {
 	rarity 4
 	info {
 		- translate="text.blanketcon.located" color="gray"
@@ -2241,6 +2241,40 @@ card "phonos_rhf" {
 		}
 	}
 	artist "Arathain"
+	date "2022"
+}
+card "peculiar_pieces" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.deepwoods" color="green"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Amy" color="green"
+		}
+	}
+	artist "???"
+	date "2022"
+}
+card "peculiar_pieces_rhf" {
+	rarity 4
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.deepwoods" color="green"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Amy" color="green"
+		}
+	}
+	artist "???"
 	date "2022"
 }
 card "picture_sign" {

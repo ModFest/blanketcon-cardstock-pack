@@ -1,7 +1,7 @@
 {
     "parent": "cardstock:builtin/card",
     "textures": {
-        "art": "blanketcon:item/card/art/fusions_grapples",
+        "art": "blanketcon:item/card/art/fusions_grappling_hook",
         "frame": "blanketcon:item/card/frame/mech"
     }
 }

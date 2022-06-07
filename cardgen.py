@@ -19,7 +19,7 @@ booth_cards = {
     "architecture_extensions": ("Architecture Extensions", "woodiertexas", "starfall", "decoration", "???"),
     "archon": ("Archon", "Safro", "campgrounds", "magic", "Arathain"),
     "armor_stand_editor": ("Armor Stand Editor", "Patbox", "midway", "tech", "Arathain"),
-    "aura": ("Aura", "maximum, DrRubisco", "lakeside", "magic", "Arathain"),
+    "aura": ("Aura", "maximum, DrRubisco, Cart3r", "lakeside", "magic", "Arathain"),
     "aurora_decor": ("Aurora's Decorations", "LambdAurora", "starfall", "decoration", "Arathain"),
     "automobility": ("Automobility", "FoundationGames", "springtide", "mech", "Arathain"),
     "bagels_baking": ("Bagel's Baking", "hugeblank, Aye, Solcat, Koritsi, ChocolateFrog18", "deepwoods", "nature", "Arathain"),
@@ -55,7 +55,7 @@ booth_cards = {
     "flowery_structures": ("Flowery Structures", "JustAnUmbreon", "deepwoods", "nature", "Arathain"),
     "flying_fluxery": ("Flying Fluxery", "Fusion Flux", "todo", "mech", "Arathain"),
     "fortress": ("Fortress", "NucleoidMC", "midway", "tech", "Arathain"),
-    "fusions_grapples": ("Fusion's Grapples", "Fusion Flux", "springtide", "mech", "Arathain"),
+    "fusions_grappling_hook": ("Fusion's Grappling Hook", "Fusion Flux", "springtide", "mech", "Arathain"),
     "goml_reserved": ("Get Off My Lawn ReServed", "Patbox, Draylar", "midway", "tech", "Arathain"),
     "guard_villagers": ("Guard Villagers", "MrSterner", "todo", "mech", "Arathain"),
     "haema": ("Haema", "Will BL", "campgrounds", "magic", "Arathain"),
@@ -79,6 +79,7 @@ booth_cards = {
     "pehkui": ("Pehkui", "Virtuoel", "starfall", "tech", "Arathain"),
     "pettable_bees": ("Pettable Bees", "Fusion Flux", "springtide", "nature", "Arathain"),
     "phonos": ("Phonos", "FoundationGames", "overlook", "mech", "Arathain"),
+    "peculiar_pieces": ("Peculiar Pieces", "Amy", "deepwoods", "tech", "???"),
     "picture_sign": ("Picture Sign", "Motschen", "lakeside", "decoration", "???"),
     "pigpen": ("Pig Pen Cipher", "Darkhax", "campgrounds", "tech", "Darkhax"),
     "player_pronouns": ("Player Pronouns", "Ash", "todo", "tech", "Arathain"),
@@ -130,6 +131,7 @@ langs = {
 generated_cards = 0
 
 
+# TODO: Build-Off Winner card, custom RHF texture for C+
 def write_booth_card(kdl, key, info, rhf):
     name, authors, location, frame, artist = info
 
