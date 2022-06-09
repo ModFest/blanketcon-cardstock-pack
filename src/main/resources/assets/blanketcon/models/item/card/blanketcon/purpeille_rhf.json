@@ -1,10 +1,7 @@
 {
-    "parent": "cardstock:builtin/card",
-    "textures": {
-        "art": "blanketcon:item/card/art/purpeille",
-        "frame": "blanketcon:item/card/frame/magic",
-        "holo_left": "blanketcon:item/card/frame/magic_rhf_left",
-        "holo_center": "blanketcon:item/card/frame/magic_rhf_center",
-        "holo_right": "blanketcon:item/card/frame/magic_rhf_right"
-    }
+  "parent": "cardstock:builtin/card",
+  "textures": {
+    "art": "blanketcon:item/card/art/purpeille",
+    "frame": "blanketcon:item/card/frame/purpeille_rhf"
+  }
 }

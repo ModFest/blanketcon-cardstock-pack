@@ -13,11 +13,11 @@ card "additional_banners" {
 			- text="Darkhax" color="green"
 		}
 	}
-	artist "???"
+	artist "LemmaEOF"
 	date "2022"
 }
 card "additional_banners_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -30,7 +30,7 @@ card "additional_banners_rhf" {
 			- text="Darkhax" color="green"
 		}
 	}
-	artist "???"
+	artist "LemmaEOF"
 	date "2022"
 }
 card "allium" {
@@ -51,7 +51,7 @@ card "allium" {
 	date "2022"
 }
 card "allium_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -85,7 +85,7 @@ card "arcanus_2" {
 	date "2022"
 }
 card "arcanus_2_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -115,11 +115,11 @@ card "architecture_extensions" {
 			- text="woodiertexas" color="green"
 		}
 	}
-	artist "???"
+	artist "LemmaEOF"
 	date "2022"
 }
 card "architecture_extensions_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -132,7 +132,7 @@ card "architecture_extensions_rhf" {
 			- text="woodiertexas" color="green"
 		}
 	}
-	artist "???"
+	artist "LemmaEOF"
 	date "2022"
 }
 card "archon" {
@@ -153,7 +153,7 @@ card "archon" {
 	date "2022"
 }
 card "archon_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -187,7 +187,7 @@ card "armor_stand_editor" {
 	date "2022"
 }
 card "armor_stand_editor_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -221,7 +221,7 @@ card "aura" {
 	date "2022"
 }
 card "aura_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -255,7 +255,7 @@ card "aurora_decor" {
 	date "2022"
 }
 card "aurora_decor_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -289,7 +289,7 @@ card "automobility" {
 	date "2022"
 }
 card "automobility_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -323,7 +323,7 @@ card "bagels_baking" {
 	date "2022"
 }
 card "bagels_baking_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -341,11 +341,7 @@ card "bagels_baking_rhf" {
 }
 card "bewitchment" {
 	rarity 2
-	info {
-		- translate="text.blanketcon.located" color="gray"
-		- text=" " color="gray"
-		- translate="location.blanketcon.todo" color="red"
-	}
+		info translate="location.blanketcon.none" color="gray"
 	 lore {
 		- {
 			- translate="text.blanketcon.by" color="gray"
@@ -357,12 +353,8 @@ card "bewitchment" {
 	date "2022"
 }
 card "bewitchment_rhf" {
-	rarity 4
-	info {
-		- translate="text.blanketcon.located" color="gray"
-		- text=" " color="gray"
-		- translate="location.blanketcon.todo" color="red"
-	}
+	rarity 3
+		info translate="location.blanketcon.none" color="gray"
 	 lore {
 		- {
 			- translate="text.blanketcon.by" color="gray"
@@ -375,11 +367,7 @@ card "bewitchment_rhf" {
 }
 card "bewitchment_plus" {
 	rarity 2
-	info {
-		- translate="text.blanketcon.located" color="gray"
-		- text=" " color="gray"
-		- translate="location.blanketcon.todo" color="red"
-	}
+		info translate="location.blanketcon.none" color="gray"
 	 lore {
 		- {
 			- translate="text.blanketcon.by" color="gray"
@@ -391,12 +379,8 @@ card "bewitchment_plus" {
 	date "2022"
 }
 card "bewitchment_plus_rhf" {
-	rarity 4
-	info {
-		- translate="text.blanketcon.located" color="gray"
-		- text=" " color="gray"
-		- translate="location.blanketcon.todo" color="red"
-	}
+	rarity 3
+		info translate="location.blanketcon.none" color="gray"
 	 lore {
 		- {
 			- translate="text.blanketcon.by" color="gray"
@@ -425,7 +409,7 @@ card "bing_bing_wahoo" {
 	date "2022"
 }
 card "bing_bing_wahoo_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -459,7 +443,7 @@ card "bits_and_chisels" {
 	date "2022"
 }
 card "bits_and_chisels_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -493,7 +477,7 @@ card "botania" {
 	date "2022"
 }
 card "botania_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -527,7 +511,7 @@ card "build_battle" {
 	date "2022"
 }
 card "build_battle_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -557,11 +541,11 @@ card "campanion" {
 			- text="Terraformers" color="green"
 		}
 	}
-	artist "???"
+	artist "LemmaEOF"
 	date "2022"
 }
 card "campanion_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -574,7 +558,7 @@ card "campanion_rhf" {
 			- text="Terraformers" color="green"
 		}
 	}
-	artist "???"
+	artist "LemmaEOF"
 	date "2022"
 }
 card "cardstock" {
@@ -595,7 +579,7 @@ card "cardstock" {
 	date "2022"
 }
 card "cardstock_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -629,7 +613,7 @@ card "cc_prometheus" {
 	date "2022"
 }
 card "cc_prometheus_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -663,7 +647,7 @@ card "cc_restitched" {
 	date "2022"
 }
 card "cc_restitched_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -697,7 +681,7 @@ card "chocolate_bar" {
 	date "2022"
 }
 card "chocolate_bar_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -731,7 +715,7 @@ card "chromatic_currents" {
 	date "2022"
 }
 card "chromatic_currents_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -765,7 +749,7 @@ card "consistency_plus" {
 	date "2022"
 }
 card "consistency_plus_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -799,7 +783,7 @@ card "create" {
 	date "2022"
 }
 card "create_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -833,7 +817,7 @@ card "culinaire" {
 	date "2022"
 }
 card "culinaire_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -867,7 +851,7 @@ card "dark_paintings" {
 	date "2022"
 }
 card "dark_paintings_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -901,7 +885,7 @@ card "dark_utilities" {
 	date "2022"
 }
 card "dark_utilities_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -935,7 +919,7 @@ card "decorative" {
 	date "2022"
 }
 card "decorative_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -969,7 +953,7 @@ card "destroy_the_monument" {
 	date "2022"
 }
 card "destroy_the_monument_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -1003,7 +987,7 @@ card "double_jump_attribute" {
 	date "2022"
 }
 card "double_jump_attribute_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -1037,7 +1021,7 @@ card "dyeable_fishing_lines" {
 	date "2022"
 }
 card "dyeable_fishing_lines_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -1071,7 +1055,7 @@ card "ears" {
 	date "2022"
 }
 card "ears_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -1105,7 +1089,7 @@ card "ecotones" {
 	date "2022"
 }
 card "ecotones_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -1139,7 +1123,7 @@ card "emi" {
 	date "2022"
 }
 card "emi_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -1173,7 +1157,7 @@ card "enchancement" {
 	date "2022"
 }
 card "enchancement_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -1207,7 +1191,7 @@ card "endermantic_overhaul" {
 	date "2022"
 }
 card "endermantic_overhaul_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -1241,7 +1225,7 @@ card "extended_drawers" {
 	date "2022"
 }
 card "extended_drawers_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -1275,7 +1259,7 @@ card "fabulously_optimized" {
 	date "2022"
 }
 card "fabulously_optimized_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -1309,7 +1293,7 @@ card "flamingo" {
 	date "2022"
 }
 card "flamingo_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -1343,7 +1327,7 @@ card "flowery_structures" {
 	date "2022"
 }
 card "flowery_structures_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -1364,7 +1348,7 @@ card "flying_fluxery" {
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
-		- translate="location.blanketcon.todo" color="red"
+		- translate="location.blanketcon.springtide" color="dark_purple"
 	}
 	 lore {
 		- {
@@ -1377,11 +1361,11 @@ card "flying_fluxery" {
 	date "2022"
 }
 card "flying_fluxery_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
-		- translate="location.blanketcon.todo" color="red"
+		- translate="location.blanketcon.springtide" color="dark_purple"
 	}
 	 lore {
 		- {
@@ -1411,7 +1395,7 @@ card "fortress" {
 	date "2022"
 }
 card "fortress_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -1445,7 +1429,7 @@ card "fusions_grappling_hook" {
 	date "2022"
 }
 card "fusions_grappling_hook_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -1479,7 +1463,7 @@ card "goml_reserved" {
 	date "2022"
 }
 card "goml_reserved_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -1497,11 +1481,7 @@ card "goml_reserved_rhf" {
 }
 card "guard_villagers" {
 	rarity 2
-	info {
-		- translate="text.blanketcon.located" color="gray"
-		- text=" " color="gray"
-		- translate="location.blanketcon.todo" color="red"
-	}
+		info translate="location.blanketcon.none" color="gray"
 	 lore {
 		- {
 			- translate="text.blanketcon.by" color="gray"
@@ -1513,12 +1493,8 @@ card "guard_villagers" {
 	date "2022"
 }
 card "guard_villagers_rhf" {
-	rarity 4
-	info {
-		- translate="text.blanketcon.located" color="gray"
-		- text=" " color="gray"
-		- translate="location.blanketcon.todo" color="red"
-	}
+	rarity 3
+		info translate="location.blanketcon.none" color="gray"
 	 lore {
 		- {
 			- translate="text.blanketcon.by" color="gray"
@@ -1547,7 +1523,7 @@ card "haema" {
 	date "2022"
 }
 card "haema_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -1581,7 +1557,7 @@ card "half_doors" {
 	date "2022"
 }
 card "half_doors_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -1615,7 +1591,7 @@ card "hex_casting" {
 	date "2022"
 }
 card "hex_casting_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -1649,7 +1625,7 @@ card "hip_hoppers" {
 	date "2022"
 }
 card "hip_hoppers_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -1683,7 +1659,7 @@ card "icy_incitement" {
 	date "2022"
 }
 card "icy_incitement_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -1717,7 +1693,7 @@ card "incorporeal" {
 	date "2022"
 }
 card "incorporeal_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -1738,7 +1714,7 @@ card "inspecio" {
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
-		- translate="location.blanketcon.todo" color="red"
+		- translate="location.blanketcon.starfall" color="dark_gray"
 	}
 	 lore {
 		- {
@@ -1751,11 +1727,11 @@ card "inspecio" {
 	date "2022"
 }
 card "inspecio_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
-		- translate="location.blanketcon.todo" color="red"
+		- translate="location.blanketcon.starfall" color="dark_gray"
 	}
 	 lore {
 		- {
@@ -1769,11 +1745,7 @@ card "inspecio_rhf" {
 }
 card "iris" {
 	rarity 2
-	info {
-		- translate="text.blanketcon.located" color="gray"
-		- text=" " color="gray"
-		- translate="location.blanketcon.todo" color="red"
-	}
+		info translate="location.blanketcon.none" color="gray"
 	 lore {
 		- {
 			- translate="text.blanketcon.by" color="gray"
@@ -1785,12 +1757,8 @@ card "iris" {
 	date "2022"
 }
 card "iris_rhf" {
-	rarity 4
-	info {
-		- translate="text.blanketcon.located" color="gray"
-		- text=" " color="gray"
-		- translate="location.blanketcon.todo" color="red"
-	}
+	rarity 3
+		info translate="location.blanketcon.none" color="gray"
 	 lore {
 		- {
 			- translate="text.blanketcon.by" color="gray"
@@ -1819,7 +1787,7 @@ card "jamtastic" {
 	date "2022"
 }
 card "jamtastic_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -1853,7 +1821,7 @@ card "kiln" {
 	date "2022"
 }
 card "kiln_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -1887,7 +1855,7 @@ card "lovely_snails" {
 	date "2022"
 }
 card "lovely_snails_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -1921,7 +1889,7 @@ card "matchbox" {
 	date "2022"
 }
 card "matchbox_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -1955,7 +1923,7 @@ card "mbembe" {
 	date "2022"
 }
 card "mbembe_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -1989,7 +1957,7 @@ card "milk_plus" {
 	date "2022"
 }
 card "milk_plus_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -2023,7 +1991,7 @@ card "now_playing" {
 	date "2022"
 }
 card "now_playing_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -2044,7 +2012,7 @@ card "overweight_farming" {
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
-		- translate="location.blanketcon.todo" color="red"
+		- translate="location.blanketcon.campgrounds" color="aqua"
 	}
 	 lore {
 		- {
@@ -2057,11 +2025,11 @@ card "overweight_farming" {
 	date "2022"
 }
 card "overweight_farming_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
-		- translate="location.blanketcon.todo" color="red"
+		- translate="location.blanketcon.campgrounds" color="aqua"
 	}
 	 lore {
 		- {
@@ -2091,7 +2059,7 @@ card "oxidized" {
 	date "2022"
 }
 card "oxidized_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -2125,7 +2093,7 @@ card "packages" {
 	date "2022"
 }
 card "packages_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -2159,7 +2127,7 @@ card "pehkui" {
 	date "2022"
 }
 card "pehkui_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -2193,7 +2161,7 @@ card "pettable_bees" {
 	date "2022"
 }
 card "pettable_bees_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -2227,7 +2195,7 @@ card "phonos" {
 	date "2022"
 }
 card "phonos_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -2257,11 +2225,11 @@ card "peculiar_pieces" {
 			- text="Amy" color="green"
 		}
 	}
-	artist "???"
+	artist "LemmaEOF"
 	date "2022"
 }
 card "peculiar_pieces_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -2274,7 +2242,7 @@ card "peculiar_pieces_rhf" {
 			- text="Amy" color="green"
 		}
 	}
-	artist "???"
+	artist "LemmaEOF"
 	date "2022"
 }
 card "picture_sign" {
@@ -2291,11 +2259,11 @@ card "picture_sign" {
 			- text="Motschen" color="green"
 		}
 	}
-	artist "???"
+	artist "LemmaEOF"
 	date "2022"
 }
 card "picture_sign_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -2308,7 +2276,7 @@ card "picture_sign_rhf" {
 			- text="Motschen" color="green"
 		}
 	}
-	artist "???"
+	artist "LemmaEOF"
 	date "2022"
 }
 card "pigpen" {
@@ -2329,7 +2297,7 @@ card "pigpen" {
 	date "2022"
 }
 card "pigpen_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -2350,7 +2318,7 @@ card "player_pronouns" {
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
-		- translate="location.blanketcon.todo" color="red"
+		- translate="location.blanketcon.campgrounds" color="aqua"
 	}
 	 lore {
 		- {
@@ -2363,11 +2331,11 @@ card "player_pronouns" {
 	date "2022"
 }
 card "player_pronouns_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
-		- translate="location.blanketcon.todo" color="red"
+		- translate="location.blanketcon.campgrounds" color="aqua"
 	}
 	 lore {
 		- {
@@ -2397,7 +2365,7 @@ card "polaroid_camera" {
 	date "2022"
 }
 card "polaroid_camera_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -2431,7 +2399,7 @@ card "polymc" {
 	date "2022"
 }
 card "polymc_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -2465,7 +2433,7 @@ card "portal_cubed" {
 	date "2022"
 }
 card "portal_cubed_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -2499,7 +2467,7 @@ card "promenade" {
 	date "2022"
 }
 card "promenade_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -2533,7 +2501,7 @@ card "pswg" {
 	date "2022"
 }
 card "pswg_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -2567,7 +2535,7 @@ card "purpeille" {
 	date "2022"
 }
 card "purpeille_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -2585,11 +2553,7 @@ card "purpeille_rhf" {
 }
 card "qcraft" {
 	rarity 2
-	info {
-		- translate="text.blanketcon.located" color="gray"
-		- text=" " color="gray"
-		- translate="location.blanketcon.todo" color="red"
-	}
+		info translate="location.blanketcon.none" color="gray"
 	 lore {
 		- {
 			- translate="text.blanketcon.by" color="gray"
@@ -2601,12 +2565,8 @@ card "qcraft" {
 	date "2022"
 }
 card "qcraft_rhf" {
-	rarity 4
-	info {
-		- translate="text.blanketcon.located" color="gray"
-		- text=" " color="gray"
-		- translate="location.blanketcon.todo" color="red"
-	}
+	rarity 3
+		info translate="location.blanketcon.none" color="gray"
 	 lore {
 		- {
 			- translate="text.blanketcon.by" color="gray"
@@ -2635,7 +2595,7 @@ card "quakecraft" {
 	date "2022"
 }
 card "quakecraft_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -2669,7 +2629,7 @@ card "quark" {
 	date "2022"
 }
 card "quark_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -2703,7 +2663,7 @@ card "reaping" {
 	date "2022"
 }
 card "reaping_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -2737,7 +2697,7 @@ card "recordable" {
 	date "2022"
 }
 card "recordable_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -2758,7 +2718,7 @@ card "resounding" {
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
-		- translate="location.blanketcon.todo" color="red"
+		- translate="location.blanketcon.springtide" color="dark_purple"
 	}
 	 lore {
 		- {
@@ -2771,11 +2731,11 @@ card "resounding" {
 	date "2022"
 }
 card "resounding_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
-		- translate="location.blanketcon.todo" color="red"
+		- translate="location.blanketcon.springtide" color="dark_purple"
 	}
 	 lore {
 		- {
@@ -2805,7 +2765,7 @@ card "riptide_rush" {
 	date "2022"
 }
 card "riptide_rush_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -2839,7 +2799,7 @@ card "runelic" {
 	date "2022"
 }
 card "runelic_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -2873,7 +2833,7 @@ card "sandwichable" {
 	date "2022"
 }
 card "sandwichable_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -2907,7 +2867,7 @@ card "simple_crates" {
 	date "2022"
 }
 card "simple_crates_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -2941,7 +2901,7 @@ card "simplevillagers" {
 	date "2022"
 }
 card "simplevillagers_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -2975,7 +2935,7 @@ card "skywars" {
 	date "2022"
 }
 card "skywars_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -3009,7 +2969,7 @@ card "soul_ice" {
 	date "2022"
 }
 card "soul_ice_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -3043,7 +3003,7 @@ card "spacefactory" {
 	date "2022"
 }
 card "spacefactory_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -3073,11 +3033,11 @@ card "tatercart" {
 			- text="Patbox" color="green"
 		}
 	}
-	artist "???"
+	artist "LemmaEOF"
 	date "2022"
 }
 card "tatercart_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -3090,7 +3050,7 @@ card "tatercart_rhf" {
 			- text="Patbox" color="green"
 		}
 	}
-	artist "???"
+	artist "LemmaEOF"
 	date "2022"
 }
 card "taterzens" {
@@ -3098,7 +3058,7 @@ card "taterzens" {
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
-		- translate="location.blanketcon.todo" color="red"
+		- translate="location.blanketcon.midway" color="gold"
 	}
 	 lore {
 		- {
@@ -3111,11 +3071,11 @@ card "taterzens" {
 	date "2022"
 }
 card "taterzens_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
-		- translate="location.blanketcon.todo" color="red"
+		- translate="location.blanketcon.midway" color="gold"
 	}
 	 lore {
 		- {
@@ -3145,7 +3105,7 @@ card "terracraft" {
 	date "2022"
 }
 card "terracraft_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -3179,7 +3139,7 @@ card "terrariamod" {
 	date "2022"
 }
 card "terrariamod_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -3213,7 +3173,7 @@ card "this_rocks" {
 	date "2022"
 }
 card "this_rocks_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -3231,11 +3191,7 @@ card "this_rocks_rhf" {
 }
 card "ultimatehud" {
 	rarity 2
-	info {
-		- translate="text.blanketcon.located" color="gray"
-		- text=" " color="gray"
-		- translate="location.blanketcon.todo" color="red"
-	}
+		info translate="location.blanketcon.none" color="gray"
 	 lore {
 		- {
 			- translate="text.blanketcon.by" color="gray"
@@ -3247,12 +3203,8 @@ card "ultimatehud" {
 	date "2022"
 }
 card "ultimatehud_rhf" {
-	rarity 4
-	info {
-		- translate="text.blanketcon.located" color="gray"
-		- text=" " color="gray"
-		- translate="location.blanketcon.todo" color="red"
-	}
+	rarity 3
+		info translate="location.blanketcon.none" color="gray"
 	 lore {
 		- {
 			- translate="text.blanketcon.by" color="gray"
@@ -3281,7 +3233,7 @@ card "visible_barriers" {
 	date "2022"
 }
 card "visible_barriers_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -3311,11 +3263,11 @@ card "visual_overhaul" {
 			- text="Motschen" color="green"
 		}
 	}
-	artist "???"
+	artist "LemmaEOF"
 	date "2022"
 }
 card "visual_overhaul_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
@@ -3328,7 +3280,41 @@ card "visual_overhaul_rhf" {
 			- text="Motschen" color="green"
 		}
 	}
-	artist "???"
+	artist "LemmaEOF"
+	date "2022"
+}
+card "wired_redstone" {
+	rarity 2
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.starfall" color="dark_gray"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Kneelawk" color="green"
+		}
+	}
+	artist "Kneelawk"
+	date "2022"
+}
+card "wired_redstone_rhf" {
+	rarity 3
+	info {
+		- translate="text.blanketcon.located" color="gray"
+		- text=" " color="gray"
+		- translate="location.blanketcon.starfall" color="dark_gray"
+	}
+	 lore {
+		- {
+			- translate="text.blanketcon.by" color="gray"
+			- text=" " color="gray"
+			- text="Kneelawk" color="green"
+		}
+	}
+	artist "Kneelawk"
 	date "2022"
 }
 card "xp_share" {
@@ -3336,7 +3322,7 @@ card "xp_share" {
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
-		- translate="location.blanketcon.todo" color="red"
+		- translate="location.blanketcon.campgrounds" color="aqua"
 	}
 	 lore {
 		- {
@@ -3349,11 +3335,11 @@ card "xp_share" {
 	date "2022"
 }
 card "xp_share_rhf" {
-	rarity 4
+	rarity 3
 	info {
 		- translate="text.blanketcon.located" color="gray"
 		- text=" " color="gray"
-		- translate="location.blanketcon.todo" color="red"
+		- translate="location.blanketcon.campgrounds" color="aqua"
 	}
 	 lore {
 		- {
@@ -3367,11 +3353,7 @@ card "xp_share_rhf" {
 }
 card "yungs_better_dtemples" {
 	rarity 2
-	info {
-		- translate="text.blanketcon.located" color="gray"
-		- text=" " color="gray"
-		- translate="location.blanketcon.todo" color="red"
-	}
+		info translate="location.blanketcon.none" color="gray"
 	 lore {
 		- {
 			- translate="text.blanketcon.by" color="gray"
@@ -3383,12 +3365,8 @@ card "yungs_better_dtemples" {
 	date "2022"
 }
 card "yungs_better_dtemples_rhf" {
-	rarity 4
-	info {
-		- translate="text.blanketcon.located" color="gray"
-		- text=" " color="gray"
-		- translate="location.blanketcon.todo" color="red"
-	}
+	rarity 3
+		info translate="location.blanketcon.none" color="gray"
 	 lore {
 		- {
 			- translate="text.blanketcon.by" color="gray"
@@ -3398,4 +3376,23 @@ card "yungs_better_dtemples_rhf" {
 	}
 	artist "Arathain"
 	date "2022"
+}
+//build-off cards
+card "buildoff_winner" {
+	rarity 4
+	info translate="text.blanketcon.buildoff.congrats" color="magenta"
+	lore {
+		- translate="text.blanketcon.buildoff.runner" color="gray"
+	}
+	artist "Cart3r"
+	year "2022"
+}
+card "buildoff_winner_rhf" {
+	rarity 5
+	info translate="text.blanketcon.buildoff.congrats" color="yellow"
+	lore {
+		- translate="text.blanketcon.buildoff.winner" color="gray"
+	}
+	artist "Cart3r"
+	year "2022"
 }

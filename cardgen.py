@@ -13,10 +13,10 @@ zone_colors = {
 }
 
 booth_cards = {
-    "additional_banners": ("Additional Banners", "Darkhax", "campgrounds", "decoration", "???"),
+    "additional_banners": ("Additional Banners", "Darkhax", "campgrounds", "decoration", "LemmaEOF"),
     "allium": ("Allium", "hugeblank, Patbox, BasiqueEvangelist", "deepwoods", "tech", "Arathain"),
     "arcanus_2": ("Arcanus 2", "Cammie, Will BL, MrSterner, ArathainFarqoe", "campgrounds", "magic", "Arathain"),
-    "architecture_extensions": ("Architecture Extensions", "woodiertexas", "starfall", "decoration", "???"),
+    "architecture_extensions": ("Architecture Extensions", "woodiertexas", "starfall", "decoration", "LemmaEOF"),
     "archon": ("Archon", "Safro", "campgrounds", "magic", "Arathain"),
     "armor_stand_editor": ("Armor Stand Editor", "Patbox", "midway", "tech", "Arathain"),
     "aura": ("Aura", "maximum, DrRubisco, Cart3r", "lakeside", "magic", "Arathain"),
@@ -29,7 +29,7 @@ booth_cards = {
     "bits_and_chisels": ("Bits and Chisels", "ThatTrollzer", "starfall", "decoration", "Arathain"),
     "botania": ("Botania", "Vazkii, Williewillus, Hubry, Alwinfy", "industries", "tech", "Arathain"),
     "build_battle": ("Build Battle", "NucleoidMC", "deepwoods", "tech", "Arathain"),
-    "campanion": ("Campanion", "Terraformers", "campgrounds", "nature", "???"),
+    "campanion": ("Campanion", "Terraformers", "campgrounds", "nature", "LemmaEOF"),
     "cardstock": ("CardStock", "Repulica, LemmaEOF", "campgrounds", "tech", "Arathain"),
     "cc_prometheus": ("ComputerCraft: Prometheus", "SquidDev", "overlook", "tech", "Arathain"),
     "cc_restitched": ("ComputerCraft: Restitched", "Merith, Patbox, SquidDev", "overlook", "tech", "Arathain"),
@@ -53,7 +53,7 @@ booth_cards = {
     "fabulously_optimized": ("Fabulously Optimized", "robotkoer", "starfall", "tech", "Arathain"),
     "flamingo": ("Flamingo", "copygirl, Vexatos", "campgrounds", "tater", "Arathain"),
     "flowery_structures": ("Flowery Structures", "JustAnUmbreon", "deepwoods", "nature", "Arathain"),
-    "flying_fluxery": ("Flying Fluxery", "Fusion Flux", "todo", "mech", "Arathain"),
+    "flying_fluxery": ("Flying Fluxery", "Fusion Flux", "springtide", "mech", "Arathain"),
     "fortress": ("Fortress", "NucleoidMC", "midway", "tech", "Arathain"),
     "fusions_grappling_hook": ("Fusion's Grappling Hook", "Fusion Flux", "springtide", "mech", "Arathain"),
     "goml_reserved": ("Get Off My Lawn ReServed", "Patbox, Draylar", "midway", "tech", "Arathain"),
@@ -64,7 +64,7 @@ booth_cards = {
     "hip_hoppers": ("Hip Hoppers", "Fusion Flux", "springtide", "mech", "Arathain"),
     "icy_incitement": ("Icy Incitement", "Amy", "deepwoods", "mech", "Arathain"),
     "incorporeal": ("Incorporeal 3", "quat, Artemis System", "industries", "tech", "Arathain"),
-    "inspecio": ("Inspecio", "LambdAurora, Emi", "todo", "tech", "Arathain"),
+    "inspecio": ("Inspecio", "LambdAurora, Emi", "starfall", "tech", "Arathain"),
     "iris": ("Iris", "IMS", "todo", "tech", "Arathain"),
     "jamtastic": ("Jamtastic", "jamalam", "springtide", "creature", "Arathain"),
     "kiln": ("Kiln", "LemmaEOF, ZestyBlaze, BluKat", "campgrounds", "mech", "Arathain"),
@@ -73,28 +73,28 @@ booth_cards = {
     "mbembe": ("Mbembe", "ArathainFarqoe, Mango, Coolrex, Ninni, Zae", "springtide", "creature", "Arathain"),
     "milk_plus": ("Milk+", "Tropheus Jay", "springtide", "nature", "Arathain"),
     "now_playing": ("Now Playing", "AppleTheGolden", "deepwoods", "tech", "Arathain"),
-    "overweight_farming": ("Overweight Farming", "MrSterner", "todo", "nature", "Arathain"),
+    "overweight_farming": ("Overweight Farming", "MrSterner", "campgrounds", "nature", "Arathain"),
     "oxidized": ("Oxidized", "Safro", "springtide", "decoration", "Arathain"),
     "packages": ("Packages", "quat", "industries", "mech", "Arathain"),
     "pehkui": ("Pehkui", "Virtuoel", "starfall", "tech", "Arathain"),
     "pettable_bees": ("Pettable Bees", "Fusion Flux", "springtide", "nature", "Arathain"),
     "phonos": ("Phonos", "FoundationGames", "overlook", "mech", "Arathain"),
-    "peculiar_pieces": ("Peculiar Pieces", "Amy", "deepwoods", "tech", "???"),
-    "picture_sign": ("Picture Sign", "Motschen", "lakeside", "decoration", "???"),
+    "peculiar_pieces": ("Peculiar Pieces", "Amy", "deepwoods", "tech", "LemmaEOF"),
+    "picture_sign": ("Picture Sign", "Motschen", "lakeside", "decoration", "LemmaEOF"),
     "pigpen": ("Pig Pen Cipher", "Darkhax", "campgrounds", "tech", "Darkhax"),
-    "player_pronouns": ("Player Pronouns", "Ash", "todo", "tech", "Arathain"),
+    "player_pronouns": ("Player Pronouns", "Ash", "campgrounds", "tech", "Arathain"),
     "polaroid_camera": ("Polaroid Camera", "Pigeon", "springtide", "mech", "Arathain"),
     "polymc": ("PolyMc", "TheEpicBlock", "midway", "tech", "Arathain"),
     "portal_cubed": ("Portal Cubed", "Portal Cubed team", "campgrounds", "tech", "Arathain"),
     "promenade": ("Promenade", "Dawn Team", "starfall", "nature", "Arathain"),
     "pswg": ("Galaxies: Parzi's Star Wars Mod", "PSWG Team", "springtide", "tech", "Arathain"),
-    "purpeille": ("Purpeille", "acikek, VirtuaLilith, Trudle, Jeb_Kerm", "springtide", "magic", "VirtuaLilith"),
+    "purpeille": ("Purpeille", "acikek, VirtuaLilith, Trudle, Jeb_Kerm", "springtide", "purpeille", "VirtuaLilith"),
     "qcraft": ("qCraft: Reimagined", "acikek, VirtuaLilith", "todo", "mech", "Arathain"),
     "quakecraft": ("QuakeCraft", "NucleoidMC", "midway", "creature", "Arathain"),
     "quark": ("Quark", "wiresegal, Vazkii", "industries", "tater", "Arathain"),
     "reaping": ("Reaping Mod", "Jamalam", "overlook", "creature", "Arathain"),
     "recordable": ("Recordable", "burger", "lakeside", "mech", "Arathain"),
-    "resounding": ("Resounding", "DrRubisco, iceGiant", "todo", "tech", "Arathain"),
+    "resounding": ("Resounding", "DrRubisco, iceGiant", "springtide", "tech", "Arathain"),
     "riptide_rush": ("Riptide Rush", "Amy", "deepwoods", "tech", "Arathain"),
     "runelic": ("Runelic", "Darkhax", "campgrounds", "tech", "Darkhax"),
     "sandwichable": ("Sandwichable", "FoundationGames", "deepwoods", "nature", "Arathain"),
@@ -103,15 +103,16 @@ booth_cards = {
     "skywars": ("Skywars", "NucleoidMC", "midway", "tech", "Arathain"),
     "soul_ice": ("Soul Ice", "Siuol", "lakeside", "decoration", "Arathain"),
     "spacefactory": ("SpaceFactory", "reoseah", "overlook", "tech", "Arathain"),
-    "tatercart": ("TaterCart", "Patbox", "midway", "mech", "???"),
-    "taterzens": ("Taterzens", "samo_lego", "todo", "tech", "Arathain"),
+    "tatercart": ("TaterCart", "Patbox", "midway", "mech", "LemmaEOF"),
+    "taterzens": ("Taterzens", "samo_lego", "midway", "tech", "Arathain"),
     "terracraft": ("TerraCraft", "SimplyCmd, RiverOaken", "campgrounds", "nature", "Arathain"),
     "terrariamod": ("TerrariaMod", "Ryorama, Realz, Kelvin, Cepheus", "springtide", "nature", "Arathain"),
     "this_rocks": ("This Rocks!", "Motschen", "lakeside", "decoration", "Arathain"),
     "ultimatehud": ("UltimateHUD", "XanderStuff", "todo", "tech", "Arathain"),
     "visible_barriers": ("Visible Barriers", "Amy", "deepwoods", "tech", "Arathain"),
-    "visual_overhaul": ("Visual Overhaul", "Motschen", "lakeside", "decoration", "???"),
-    "xp_share": ("XP Share", "Sunroses", "todo", "tech", "Arathain"),
+    "visual_overhaul": ("Visual Overhaul", "Motschen", "lakeside", "decoration", "LemmaEOF"),
+    "wired_redstone": ("Wired Redstone", "Kneelawk", "starfall", "mech", "Kneelawk"),
+    "xp_share": ("XP Share", "Sunroses", "campgrounds", "tech", "Arathain"),
     "yungs_better_dtemples": ("YUNG's Better Desert Temples", "YUNGNICKYOUNG", "todo", "mech", "Arathain")
 }
 
@@ -124,9 +125,14 @@ langs = {
     "location.blanketcon.industries": "CL Industries",
     "location.blanketcon.deepwoods": "Extant Deepwoods",
     "location.blanketcon.midway": "Midway Park",
-    "location.blanketcon.todo": "TODO: Locate Me",
+    "location.blanketcon.none": "No booth created",
+    "text.blanketcon.buildoff.congrats": "Congratulations!",
+    "text.blanketcon.buildoff.runner": "Given to the runner-up of the BlanketCon Build-Off",
+    "text.blanketcon.buildoff.winner": "Given to the winner of the BlanketCon Build-Off",
     "text.blanketcon.located": "Located in",
-    "text.blanketcon.by": "By"
+    "text.blanketcon.by": "By",
+    "card.blanketcon.blanketcon.buildoff_winner": "BlanketCon Build-Off: Runner-Up",
+    "card.blanketcon.blanketcon.buildoff_winner_rhf": "BlanketCon Build-Off: Winner"
 }
 generated_cards = 0
 
@@ -142,12 +148,15 @@ def write_booth_card(kdl, key, info, rhf):
 
     # kdl entry
     kdl.write('card "' + path + '" {\n')
-    kdl.write('\trarity ' + ('4' if rhf else '2') + '\n')
-    kdl.write('\tinfo {\n')
-    kdl.write('\t\t- translate="text.blanketcon.located" color="gray"\n')
-    kdl.write('\t\t- text=" " color="gray"\n')
-    kdl.write('\t\t- translate="location.blanketcon.' + location + '" color="' + zone_colors[location] + '"\n')
-    kdl.write('\t}\n')
+    kdl.write('\trarity ' + ('3' if rhf else '2') + '\n')
+    if location != "todo":
+        kdl.write('\tinfo {\n')
+        kdl.write('\t\t- translate="text.blanketcon.located" color="gray"\n')
+        kdl.write('\t\t- text=" " color="gray"\n')
+        kdl.write('\t\t- translate="location.blanketcon.' + location + '" color="' + zone_colors[location] + '"\n')
+        kdl.write('\t}\n')
+    else:
+        kdl.write('\t\tinfo translate="location.blanketcon.none" color="gray"\n')
     kdl.write('\t lore {\n')
     kdl.write('\t\t- {\n')
     kdl.write('\t\t\t- translate="text.blanketcon.by" color="gray"\n')
@@ -182,6 +191,26 @@ with open('src/main/resources/data/blanketcon/cardstock/sets/blanketcon.kdl', 'w
         write_booth_card(kdl, key, info, False)
         write_booth_card(kdl, key, info, True)
         generated_cards += 2
+    kdl.write("""//build-off cards
+card "buildoff_winner" {
+\trarity 4
+\tinfo translate="text.blanketcon.buildoff.congrats" color="magenta"
+\tlore {
+\t\t- translate="text.blanketcon.buildoff.runner" color="gray"
+\t}
+\tartist "Cart3r"
+\tyear "2022"
+}
+card "buildoff_winner_rhf" {
+\trarity 5
+\tinfo translate="text.blanketcon.buildoff.congrats" color="yellow"
+\tlore {
+\t\t- translate="text.blanketcon.buildoff.winner" color="gray"
+\t}
+\tartist "Cart3r"
+\tyear "2022"
+}
+""")
     print("Generated " + str(generated_cards) + " cards")
 
 with open('src/main/resources/assets/blanketcon/lang/en_us.json', 'w') as lang:

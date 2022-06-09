@@ -2,6 +2,6 @@
     "parent": "cardstock:builtin/card",
     "textures": {
         "art": "blanketcon:item/card/art/purpeille",
-        "frame": "blanketcon:item/card/frame/magic"
+        "frame": "blanketcon:item/card/frame/purpeille"
     }
 }
