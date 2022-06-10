@@ -3191,7 +3191,11 @@ card "this_rocks_rhf" {
 }
 card "ultimatehud" {
 	rarity 2
-		info translate="location.blanketcon.none" color="gray"
+	info {
+    		- translate="text.blanketcon.located" color="gray"
+    		- text=" " color="gray"
+    		- translate="location.blanketcon.midway" color="gold"
+    }
 	 lore {
 		- {
 			- translate="text.blanketcon.by" color="gray"
@@ -3204,7 +3208,11 @@ card "ultimatehud" {
 }
 card "ultimatehud_rhf" {
 	rarity 3
-		info translate="location.blanketcon.none" color="gray"
+	info {
+    		- translate="text.blanketcon.located" color="gray"
+    		- text=" " color="gray"
+    		- translate="location.blanketcon.midway" color="gold"
+    }
 	 lore {
 		- {
 			- translate="text.blanketcon.by" color="gray"

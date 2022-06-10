@@ -92,7 +92,7 @@ booth_cards = {
     "qcraft": ("qCraft: Reimagined", "acikek, VirtuaLilith", "todo", "mech", "Arathain"),
     "quakecraft": ("QuakeCraft", "NucleoidMC", "midway", "creature", "Arathain"),
     "quark": ("Quark", "wiresegal, Vazkii", "industries", "tater", "Arathain"),
-    "reaping": ("Reaping Mod", "Jamalam", "overlook", "creature", "Arathain"),
+    "reaping": ("Reaping", "Jamalam", "overlook", "creature", "Arathain"),
     "recordable": ("Recordable", "burger", "lakeside", "mech", "Arathain"),
     "resounding": ("Resounding", "DrRubisco, iceGiant", "springtide", "tech", "Arathain"),
     "riptide_rush": ("Riptide Rush", "Amy", "deepwoods", "tech", "Arathain"),
@@ -108,7 +108,7 @@ booth_cards = {
     "terracraft": ("TerraCraft", "SimplyCmd, RiverOaken", "campgrounds", "nature", "Arathain"),
     "terrariamod": ("TerrariaMod", "Ryorama, Realz, Kelvin, Cepheus", "springtide", "nature", "Arathain"),
     "this_rocks": ("This Rocks!", "Motschen", "lakeside", "decoration", "Arathain"),
-    "ultimatehud": ("UltimateHUD", "XanderStuff", "todo", "tech", "Arathain"),
+    "ultimatehud": ("UltimateHUD", "XanderStuff", "midway", "tech", "Arathain"),
     "visible_barriers": ("Visible Barriers", "Amy", "deepwoods", "tech", "Arathain"),
     "visual_overhaul": ("Visual Overhaul", "Motschen", "lakeside", "decoration", "LemmaEOF"),
     "wired_redstone": ("Wired Redstone", "Kneelawk", "starfall", "mech", "Kneelawk"),
@@ -156,7 +156,7 @@ def write_booth_card(kdl, key, info, rhf):
         kdl.write('\t\t- translate="location.blanketcon.' + location + '" color="' + zone_colors[location] + '"\n')
         kdl.write('\t}\n')
     else:
-        kdl.write('\t\tinfo translate="location.blanketcon.none" color="gray"\n')
+        kdl.write('\tinfo translate="location.blanketcon.none" color="gray"\n')
     kdl.write('\t lore {\n')
     kdl.write('\t\t- {\n')
     kdl.write('\t\t\t- translate="text.blanketcon.by" color="gray"\n')
